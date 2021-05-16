@@ -14,9 +14,14 @@
 \contentsline {subsubsection}{\numberline {3.3.2}Фильтр Калмана и LSTM}{16}{subsubsection.3.3.2}%
 \contentsline {section}{\numberline {4}Реализация}{19}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Обзор}{19}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Обучение и валидация}{21}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Тестирование}{21}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Сравнительный анализ}{23}{section.5}%
-\contentsline {section}{\numberline {6}Выводы}{27}{section.6}%
-\contentsline {section}{\numberline {7}Список литературы}{28}{section.7}%
-\contentsline {section}{\numberline {8}Приложение}{28}{section.8}%
+\contentsline {subsection}{\numberline {4.2}Фильтрация баллистических объектов}{21}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Обучение и валидация}{21}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Тестирование}{22}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Сравнительный анализ}{23}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}Фильтрация сверхзвуковых объектов}{27}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Обучение и валидация}{28}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Тестирование}{29}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Сравнительный анализ}{30}{subsubsection.4.3.3}%
+\contentsline {section}{\numberline {5}Выводы}{34}{section.5}%
+\contentsline {section}{\numberline {6}Список литературы}{35}{section.6}%
+\contentsline {section}{\numberline {7}Приложение}{35}{section.7}%
