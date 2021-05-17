@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.23)  16 MAY 2021 18:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.23)  17 MAY 2021 19:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2508,15 +2508,9 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyrery' on input line 885.
 
 
-Overfull \hbox (6.29523pt too wide) in paragraph at lines 894--895
-[]\T2A/cmr/m/n/10.95 Среднии по тра-ек-то-ри-ям бал-ли-сти-че-ских объ-ек-тов п
+Overfull \hbox (5.08633pt too wide) in paragraph at lines 894--895
+[]\T2A/cmr/m/n/10.95 Средние по тра-ек-то-ри-ям бал-ли-сти-че-ских объ-ек-тов п
 о-те-ри RNN
- []
-
-
-Overfull \hbox (0.24684pt too wide) in paragraph at lines 896--897
-[]\T2A/cmr/m/n/10.95 Среднии по тра-ек-то-ри-ям сверх-зву-ко-вых объ-ек-тов по-
-те-ри RNN
  []
 
 [34]
@@ -2700,7 +2694,7 @@ pe1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type
 public/cm-super/sfti1095.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/pu
 blic/cm-super/sfti1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/publ
 ic/cm-super/sftt1000.pfb>
-Output written on coursework.pdf (36 pages, 8649504 bytes).
+Output written on coursework.pdf (36 pages, 8649496 bytes).
 PDF statistics:
  806 PDF objects out of 1000 (max. 8388607)
  593 compressed objects within 6 object streams
