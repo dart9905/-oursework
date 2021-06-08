@@ -1,10 +1,11 @@
 
-\documentclass[a4paper,11pt]{article} % тип документа
+\documentclass[a4paper,12pt]{article} % тип документа
 %\usepackage{jmlda}
 
 % Рисунки
 \usepackage{graphicx}
 \usepackage{wrapfig}
+\usepackage{multicol}
 \graphicspath{ {./images/} }
 
 \usepackage{hyperref}
@@ -20,6 +21,17 @@
 \usepackage[utf8]{inputenc}			% кодировка исходного текста
 \usepackage[english,russian]{babel}	% локализация и переносы
 
+%отступы слева спраава  сверху снизу
+%\oddsidemargin = 5mm
+%\textwidth = 165mm
+%\topmargin = 0mm
+%\voffset = 0mm
+%\headsep = 0mm
+%\headheight = 0mm
+%\textheight = 257mm
+\usepackage[left=30mm, top=20mm, right=15mm, bottom=20mm, nohead, footskip=10mm]{geometry} % настройки полей документа
+\parindent = 12.5mm%отступ абзаца
+\linespread{1.3}%интервал
 
 % Математика
 \usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
@@ -69,45 +81,60 @@ title=\lstname,                   % Показать название подгр
 
 %\NOREVIEWERNOTES
 \begin{document}
-	\begin{titlepage}
-		\centering
-		{\large Министерство образования и науки Российской Федерации}
-		
-		{\large Федеральное государственное автономное \\ образовательное учреждение высшего образования \\
-			<<Московский физико-технический институт>> \\
-			(национальный исследовательский университет)
-		}
-		
-		\vspace{1cm}
-		{\large Отчёт по научно-исследовательской работе \\ за 8 семестр 2021 учебного года \\ (в рамках учебной, производственной, преддипломной практики)\par}
-		\vspace{1.5cm}
-		{\huge\bfseries Метод снижения ошибки определения траектории сверхзвукового объекта с помощью рекуррентной нейронной сети, использующей фильтр Калмана\par}
-		\vspace{2cm}
-		{\Large\itshape  Хромов Алексей Андреевич\par}
-		техник 1-й категории, ОКБ-1, СКБ-110
-		\vfill
-		
-		
-		научный руководитель:\par
-		\textsc{Грицык} Павел Александрович
-				
-		\vfill
-		
-		\includegraphics[width=0.15\textwidth]{almaz}\par\vspace{1cm}
-		{\scshape\Large ПАО НПО <<Алмаз-Антей>> \par}
-		
-		\vfill
-		% Bottom of the page
-		{\large \today\par}
-	\end{titlepage}
+\begin{titlepage}
+% НАЧАЛО ТИТУЛЬНОГО ЛИСТА
+\begin{center}
+\hfill \break
+\normalsize{Министерство образования и науки Российской Федерации}\\
+\normalsize{Федеральное государственное автономное образовательное учреждение}\\ 
+\normalsize{высшего образования}\\
+\normalsize{<<Московский физико-технический институт>>\\(национальный исследовательский университет)}\\
+\normalsize{Физтех-школа Радиотехники и Компьютерных Технологий}\\
+\normalsize{Кафедра радиолокации, управления и информатики}\\
+\end{center}
+\begin{flushleft}
+\normalsize{\textbf{Направление подготовки:} 03.03.01 Прикладные математика и физика}\\
+\normalsize{\textbf{Направленность (профиль) подготовки:} Радиотехника и компьютерные технологии}\\
+\end{flushleft}
+\begin{center}
+\hfill\break
+\hfill \break
+\hfill \break
+\hfill \break
+\large{\textbf{Метод снижения ошибки определения траектории сверхзвукового объекта с помощью рекуррентной нейронной сети, использующей фильтр Калмана}}\\
+\normalsize{Бакалаврская работа}\\
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\end{center}
+\hangindent=9cm \hangafter=0  \noindent
+\small{\textbf{Студент:}}\\Хромов Алексей Андреевич\\
+\underline{\hspace{55mm}}\\
+\hspace*{15mm}\textit{\scriptsize{(подпись студента)}}\\
+\small{\textbf{Научный руководитель:}}\\Грицык Павел Александрович\\
+\underline{\hspace{55mm}}\\
+\hspace*{5mm}\textit{\scriptsize{(подпись научного руководителя)}}
 
+ 
+\hfill \break
+\hfill \break
+\begin{center} Москва 2021 \end{center}
+\thispagestyle{empty} % выключаем отображение номера для этой страницы
+ 
+% КОНЕЦ ТИТУЛЬНОГО ЛИСТА
+\end{titlepage}
 
+\newpage
+\noindent\Large{\textbf{Аннотация}}
+\normalsize
 %\maketitle
+\setcounter{page}{2}
 
+\newpage
 \tableofcontents
 
 \newpage
-
 \section{Введение}
 
 Современные способы по обработке и фильтрации сигналов предполагают использование  классических линейных фильтров или каскадов фильтров с внешним,  ручным подбором коэффициентов, основанным на свойствах конкретного сигнала. У данного метода имеется множество преимуществ, включающих в себя явное аналитическое решение, точность и быстродействие. Однако, необходимость подбора коэффициентов под сигнал и желание увеличить точность фильтра с появлением новых вычислительных возможностей, улучшающих также скорость обработки данных, заставляет искать иное решение в анализирование сигналов. 

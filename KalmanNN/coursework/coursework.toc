@@ -1,27 +1,27 @@
 \babel@toc {russian}{}
-\contentsline {section}{\numberline {1}Введение}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Постановка задачи}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Актуальность задачи}{3}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Фильтр Калмана}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Алгоритм фильтра Калмана}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Модель фильтра Калмана}{6}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Итог}{9}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Рекуррентные нейронные сети}{10}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Линейные модели}{10}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Функции активации}{13}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}RNN}{14}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Простейшая схема RNN}{14}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Фильтр Калмана и LSTM}{16}{subsubsection.3.3.2}%
-\contentsline {section}{\numberline {4}Реализация}{19}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Обзор}{19}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Фильтрация баллистических объектов}{21}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Обучение и валидация}{21}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Тестирование}{22}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}Сравнительный анализ}{23}{subsubsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.3}Фильтрация сверхзвуковых объектов}{27}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Обучение и валидация}{28}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Тестирование}{29}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3}Сравнительный анализ}{30}{subsubsection.4.3.3}%
-\contentsline {section}{\numberline {5}Выводы}{34}{section.5}%
-\contentsline {section}{\numberline {6}Список литературы}{35}{section.6}%
-\contentsline {section}{\numberline {7}Приложение}{35}{section.7}%
+\contentsline {section}{\numberline {1}Введение}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Постановка задачи}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Актуальность задачи}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Фильтр Калмана}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Алгоритм фильтра Калмана}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Модель фильтра Калмана}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Итог}{11}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Рекуррентные нейронные сети}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Линейные модели}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Функции активации}{14}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}RNN}{16}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Простейшая схема RNN}{16}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Фильтр Калмана и LSTM}{18}{subsubsection.3.3.2}%
+\contentsline {section}{\numberline {4}Реализация}{21}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Обзор}{21}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Фильтрация баллистических объектов}{23}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Обучение и валидация}{23}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Тестирование}{23}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Сравнительный анализ}{25}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}Фильтрация сверхзвуковых объектов}{29}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Обучение и валидация}{30}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Тестирование}{31}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Сравнительный анализ}{32}{subsubsection.4.3.3}%
+\contentsline {section}{\numberline {5}Выводы}{36}{section.5}%
+\contentsline {section}{\numberline {6}Список литературы}{37}{section.6}%
+\contentsline {section}{\numberline {7}Приложение}{37}{section.7}%
