@@ -759,7 +759,7 @@ $$[t]=\text{сек};\qquad\qquad[x]=[y]=[z]= \text{км}.$$
 Смоделируем пример траектории сверхзвукового объекта (рис.  \ref{hgvimg0}). 
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.6\textwidth]{images/hgv0.png}
+\includegraphics[width=0.6\textwidth]{images/hgv0.eps}
 \end{center}
 \caption{Смоделированная траектория гиперзвуковой ракеты} \label{hgvimg0}
 \end{figure}
@@ -774,11 +774,11 @@ $$[t]=\text{сек};\qquad\qquad[x]=[y]=[z]= \text{км}.$$
 
  \begin{figure}[h]
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/hgv1.png} \\ а)}
+\center{\includegraphics[width=1\linewidth]{images/hgv1.eps} \\ а)}
 \end{minipage}
 \hfill
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/hgv2.png} \\ б)}
+\center{\includegraphics[width=1\linewidth]{images/hgv2.eps} \\ б)}
 \end{minipage}
 \caption{Обрабатонные траектории в плоскостях а)  $ZX$; б)  $YX$}
 \label{batlx0}
@@ -790,11 +790,11 @@ $$[t]=\text{сек};\qquad\qquad[x]=[y]=[z]= \text{км}.$$
 Процесс обучения и валидации аналогичен, как для баллистических объектов (см. гл.  \hyperref[trainval]{"Обучение  и валидация"} для баллистических траекторий). Приведём характерные для обучения графики ошибки и валидации в зависимости  от эпох:
 \begin{figure}[h]
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/losstrain0.png} \\ а)}
+\center{\includegraphics[width=1\linewidth]{images/losstrain0.eps} \\ а)}
 \end{minipage}
 \hfill
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/valtrain0.png} \\ б)}
+\center{\includegraphics[width=1\linewidth]{images/valtrain0.eps} \\ б)}
 \end{minipage}
 \caption{Процесс обучения и валидации; а) график зависимости средней по данным MSE ошибки от эпохи; б) график зависимости средней по данным точности от эпохи.}
 \label{train0}
@@ -805,7 +805,7 @@ $$\text{MSE loss: } L(y_t,y_p)=(y_t-y_p)^2.$$
 
 "Точность" осуществляем подсчетом количества точек фильтрованного сигнала, отклонившихся  от оригинала не  более чем на $5\%$. 
 
-\textbf{Вывод:} Из падения графиков на MSE и росте на Accuracy видно,  что сеть обучается, подтверждая необходимость и верность предварительной обработки траекторий. Точность на валидации чуть выше $56\%$, это связано с регуляризацией\footnote{В данном случае говорится об  регуляризацие Dropout.} модели и с ложностью поведения траектории. 
+\textbf{Вывод:} Из падения графиков на MSE и росте на Accuracy видно,  что сеть обучается, подтверждая необходимость и верность предварительной обработки траекторий. Точность на валидации чуть выше $63.9\%$, это связано с регуляризацией\footnote{В данном случае говорится об  регуляризацие Dropout.} модели и с ложностью поведения траектории. 
 \newpage
 \subsubsection{Тестирование}
 Приведём процесс тестирования в виде графиков:
@@ -821,7 +821,7 @@ $$\text{MSE loss: } L(y_t,y_p)=(y_t-y_p)^2.$$
 \label{test0}
 \end{figure}
 
-Ошибка в среднем $1,25$ м$^2$ по траекториям.  А точности $5\%$ среднем мы достигаем в $68\%$  фильтрации.
+Ошибка в среднем $1,2$ по траекториям.  А точности $5\%$ среднем мы достигаем в $68\%$  фильтрации.
 
 \textbf{Вывод:} Сеть успешно обучилась на предобработанных данных,  но возможен рост характеристик точности при  увеличении  обучающей вывборки и колличества весовых параметров.
 \newpage
@@ -835,7 +835,7 @@ $$\text{MSE loss: } L(y_t,y_p)=(y_t-y_p)^2.$$
 \caption{Средние MSE потери по траекториям} \label{battle3}
 \end{figure}
 
-Средние по траекториям потери RNN фильтра Калмана составляют $1.6$ км,  тогда как у классического девяти-мерного фильтра они равны $4,1$ км.
+Средние по траекториям потери RNN фильтра Калмана составляют $0.8$ км,  тогда как у классического девяти-мерного фильтра они равны $1.7$ км.
 
 \begin{figure}[h!]
 \begin{center}
@@ -844,7 +844,7 @@ $$\text{MSE loss: } L(y_t,y_p)=(y_t-y_p)^2.$$
 \caption{Средняя точность по траекториям} \label{battle4}
 \end{figure}
 
-В $5\%$-ую точность в среднем по траектории попадают $69\%$ результатов фильтрации RNN,  и $63\%$ для фильтра Калмана. 
+В $5\%$-ую точность в среднем по траектории попадают $72\%$ результатов фильтрации RNN,  и $66\%$ для фильтра Калмана. 
 
 Для исследования характеристик  фильтров, также рассмотрим их работу не в среднем, а на конкретной произвольной траекторие.  Будем выводить графики вида: |<<сигнал>>-<<сигнал+шум>>| и рядом |<<фильтрованный сигнал>>-<<сигнал+шум>>| в зависимости от времени  (\textbf{в секундах}).
 
@@ -853,11 +853,11 @@ $$[t]=\text{сек};\qquad\qquad[x]=[y]=[z]= \text{км}.$$
 
  \begin{figure}[h]
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/kalmanx0.png} \\ а)}
+\center{\includegraphics[width=1\linewidth]{images/kalmanx0.eps} \\ а)}
 \end{minipage}
 \hfill
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/nnx0.png} \\ б)}
+\center{\includegraphics[width=1\linewidth]{images/nnx0.eps} \\ б)}
 \end{minipage}
 \caption{Графики ошибки по оси $x$. а) для классического фильтра Калмана; б) для фильтра Калмана с NN.}
 \label{batlx0}
@@ -865,11 +865,11 @@ $$[t]=\text{сек};\qquad\qquad[x]=[y]=[z]= \text{км}.$$
 
  \begin{figure}[h]
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/kalmany0.png} \\ а)}
+\center{\includegraphics[width=1\linewidth]{images/kalmany0.eps} \\ а)}
 \end{minipage}
 \hfill
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/nny0.png} \\ б)}
+\center{\includegraphics[width=1\linewidth]{images/nny0.eps} \\ б)}
 \end{minipage}
 \caption{Графики ошибки по оси $y$. а) для классического фильтра Калмана; б) для фильтра Калмана с NN.}
 \label{batly0}
@@ -879,11 +879,11 @@ $$[t]=\text{сек};\qquad\qquad[x]=[y]=[z]= \text{км}.$$
 
  \begin{figure}[h]
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/kalmanz0.png} \\ а)}
+\center{\includegraphics[width=1\linewidth]{images/kalmanz0.eps} \\ а)}
 \end{minipage}
 \hfill
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/nnz0.png} \\ б)}
+\center{\includegraphics[width=1\linewidth]{images/nnz0.eps} \\ б)}
 \end{minipage}
 \caption{Графики ошибки по оси $z$. а) для классического фильтра Калмана; б) для фильтра Калмана с NN.}
 \label{batlz0}
@@ -895,21 +895,21 @@ $$[t]=\text{сек};\qquad\qquad[x]=[y]=[z]= \text{км}.$$
 
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.7\textwidth]{images/xy0.png}
+\includegraphics[width=0.7\textwidth]{images/xy0.eps}
 \end{center}
 \caption{Средняя точность по траекториям} \label{xy0}
 \end{figure}
 
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.7\textwidth]{images/xz0.png}
+\includegraphics[width=0.7\textwidth]{images/xz0.eps}
 \end{center}
 \caption{Средняя точность по траекториям} \label{xz0}
 \end{figure}
 \newpage
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.7\textwidth]{images/yz0.png}
+\includegraphics[width=0.7\textwidth]{images/yz0.eps}
 \end{center}
 \caption{Средняя точность по траекториям} \label{yz0}
 \end{figure}
@@ -929,8 +929,8 @@ $$[t]=\text{сек};\qquad\qquad[x]=[y]=[z]= \text{км}.$$
 \begin{itemize}
 \item Средние по траекториям баллистических объектов потери RNN фильтра Калмана составляют $0,9$ км,  у классического девяти-мерного фильтра они равны $2,5$ км;
 \item В $5\%$-ую точность в среднем по траектории баллистических объектов попадают $78\%$ результатов фильтрации RNN,  и $63\%$ для фильтра Калмана;
-\item Средние по траекториям сверхзвуковых объектов потери RNN фильтра Калмана составляют $1,6$ км,  у классического девяти-мерного фильтра они равны $4,1$ км;
-\item В $5\%$-ую точность в среднем по траектории сверхзвуковых объектов попадают $69\%$ результатов фильтрации RNN,  и $63\%$ для фильтра Калмана;
+\item Средние по траекториям сверхзвуковых объектов потери RNN фильтра Калмана составляют $0.8$ км,  у классического девяти-мерного фильтра они равны $1,6$ км;
+\item В $5\%$-ую точность в среднем по траектории сверхзвуковых объектов попадают $72\%$ результатов фильтрации RNN,  и $66\%$ для фильтра Калмана;
 \end{itemize}
 \end{itemize}
 
