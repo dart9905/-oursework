@@ -4,6 +4,7 @@
 
 % Рисунки
 \usepackage{graphicx}
+%\usepackage{epstopdf} %converting to PDF
 \usepackage{wrapfig}
 \usepackage{multicol}
 \graphicspath{ {./images/} }
@@ -11,7 +12,9 @@
 \usepackage{hyperref}
 \hypersetup{				% Гиперссылки
     colorlinks=true,       	% false: ссылки в рамках
-	urlcolor=blue          % на URL
+    linkcolor=black,
+    citecolor=black,
+	urlcolor=black          % на URL
 }
 
 
@@ -106,13 +109,12 @@ title=\lstname,                   % Показать название подгр
 \hfill \break
 \hfill \break
 \hfill \break
-\hfill \break
 \end{center}
 \hangindent=9cm \hangafter=0  \noindent
 \small{\textbf{Студент:}}\\Хромов Алексей Андреевич\\
 \underline{\hspace{55mm}}\\
 \hspace*{15mm}\textit{\scriptsize{(подпись студента)}}\\
-\small{\textbf{Научный руководитель:}}\\Грицык Павел Александрович\\
+\small{\textbf{Научный руководитель:}}\\Грицык Павел Александрович,\\к-т физ.-мат. наук, \\ заместитель начальника СКБ\\
 \underline{\hspace{55mm}}\\
 \hspace*{5mm}\textit{\scriptsize{(подпись научного руководителя)}}
 
@@ -130,13 +132,16 @@ title=\lstname,                   % Показать название подгр
 \normalsize
 
 
-Разработан алгоритм,  который имеет более низкую  ошибку определения  траектории в сравнении  с фильтром Калмана и базируется на  нейронной сети.  Особенность данного подхода  состоит в использовании рекурентной нейронной модели с долговременной  и  короткой памятью,  которая содержит в себе функцию аппроксимации Калмана прогнозирования коородинаты.  Показано, что новый алгоритм фильтрации имеет точность 78\%  и среднюю ошибку по баллистической траектории  0,9 км,  в то время как фильтр Калмана при тех же данных имеет точность 63\%  с ошибкой 2,5 км.  Сравнение результатов определения траектрий для сверхзвуковых объектов также показали, что модель на нейронной сети имеет среднюю ошибку 1,6 км с точностью 69\%, а классический метод Калмана ошибку  в 4,1 км с точнстью 63\%.  В работе объяснены методы и принципы нового подхода,  и предложен конечной вариант программы на Python.
+Разработан алгоритм,  который имеет более низкую  ошибку определения  траектории в сравнении  с фильтром Калмана и базируется на  нейронной сети.  Особенность данного подхода  состоит в использовании рекурентной нейронной модели с долговременной  и  короткой памятью,  которая содержит в себе функцию аппроксимации Калмана прогнозирования коородинаты.  Показано,  что новый алгоритм фильтрации имеет точность 78\%  и среднюю ошибку по баллистической траектории  0,9 км,  в то время как фильтр Калмана при тех же данных имеет точность 63\% и ошибку 2,5 км.  Сравнение результатов определения траекторий для сверхзвуковых объектов также показали, что модель на нейронной сети имеет среднюю ошибку 1,6 км и точность 69\%,  а классический метод Калмана --- ошибку  4,1 км и точность 63\%.  В работе объяснены методы и принципы нового подхода,  предложен конечный вариант программы на языке Python.
 
 %\maketitle
 \setcounter{page}{2}
 
 \newpage
-\tableofcontents
+{
+  \hypersetup{linkcolor=black}
+  \tableofcontents
+}
 
 \newpage
 \section{Введение}
@@ -243,7 +248,7 @@ $$\mathbf K = \mathbf{\bar{P}H}^\mathsf T (\mathbf{H\bar{P}H}^\mathsf T + \mathb
 \end{itemize}
 \end{enumerate}
 Напишем теперь это на Python:
-\begin{lstlisting}[label=some-code,caption=Filter Kalman, language=Python]
+\begin{lstlisting}[label=some-code,caption=Фильтр  Калмана, language=Python]
 def predict(x, P, F, Q, B, u):
     x = F @ x + B @ u
     P = F @ P @ F.T + Q
@@ -806,11 +811,11 @@ $$\text{MSE loss: } L(y_t,y_p)=(y_t-y_p)^2.$$
 Приведём процесс тестирования в виде графиков:
  \begin{figure}[h]
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/losstest0.png} \\ а)}
+\center{\includegraphics[width=1\linewidth]{images/losstest0.eps} \\ а)}
 \end{minipage}
 \hfill
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/valtest0.png} \\ б)}
+\center{\includegraphics[width=1\linewidth]{images/valtest0.eps} \\ б)}
 \end{minipage}
 \caption{Процесс тестирования. а) график зависимости средней по данным MSE ошибки от эпохи; б) график зависимости средней по данным точности от эпохи.}
 \label{test0}
@@ -825,7 +830,7 @@ $$\text{MSE loss: } L(y_t,y_p)=(y_t-y_p)^2.$$
 
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.6\textwidth]{images/battle3.png}
+\includegraphics[width=0.6\textwidth]{images/battle3.eps}
 \end{center}
 \caption{Средние MSE потери по траекториям} \label{battle3}
 \end{figure}
@@ -834,7 +839,7 @@ $$\text{MSE loss: } L(y_t,y_p)=(y_t-y_p)^2.$$
 
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.6\textwidth]{images/battle4.png}
+\includegraphics[width=0.6\textwidth]{images/battle4.eps}
 \end{center}
 \caption{Средняя точность по траекториям} \label{battle4}
 \end{figure}
@@ -919,7 +924,7 @@ $$[t]=\text{сек};\qquad\qquad[x]=[y]=[z]= \text{км}.$$
 \item Исследовали и реализовали модель классического алгоритма  Калмана;
 \item Изучили вопросы и проблемы связанные с фильтрацией,   нашли решение в применение нейронных сетей к фильтру;
 \item Разобрали теорию машинного обучения;
-\item Написали работающую систему фильтра Калмана с рекуррентной нейронной сетью(LSTM);
+\item Разработали систему фильтрации сигнала траекторий движения объектов рекуррентной нейронной сетью(LSTM) с алгаритмом предсказания Калмана;
 \item Сравнили результаты двух моделей фильтров: 
 \begin{itemize}
 \item Средние по траекториям баллистических объектов потери RNN фильтра Калмана составляют $0,9$ км,  у классического девяти-мерного фильтра они равны $2,5$ км;
