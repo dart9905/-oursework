@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.23)  19 JUN 2021 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.23)  19 JUN 2021 20:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2032,11 +2032,11 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyrya' on input line 617.
 
 Package epstopdf Info: Source file: <images/losstrain.eps>
-(epstopdf)                    date: 2021-06-19 13:37:13
-(epstopdf)                    size: 20016 bytes
+(epstopdf)                    date: 2021-06-19 19:58:23
+(epstopdf)                    size: 22683 bytes
 (epstopdf)             Output file: <images/losstrain-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-19 13:40:20
-(epstopdf)                    size: 12551 bytes
+(epstopdf)                    date: 2021-06-19 20:01:51
+(epstopdf)                    size: 13205 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/losstrain-eps-conve
 rted-to.pdf images/losstrain.eps>
 (epstopdf)             \includegraphics on input line 622.
@@ -2048,11 +2048,11 @@ Package pdftex.def Info: images/losstrain-eps-converted-to.pdf  used on input l
 ine 622.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 Package epstopdf Info: Source file: <images/valtrain.eps>
-(epstopdf)                    date: 2021-06-19 13:37:15
-(epstopdf)                    size: 22875 bytes
+(epstopdf)                    date: 2021-06-19 19:58:20
+(epstopdf)                    size: 22936 bytes
 (epstopdf)             Output file: <images/valtrain-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-19 13:40:20
-(epstopdf)                    size: 14458 bytes
+(epstopdf)                    date: 2021-06-19 20:01:51
+(epstopdf)                    size: 14499 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/valtrain-eps-conver
 ted-to.pdf images/valtrain.eps>
 (epstopdf)             \includegraphics on input line 626.
@@ -2113,11 +2113,11 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyre' on input line 647.
 
 Package epstopdf Info: Source file: <images/losstest.eps>
-(epstopdf)                    date: 2021-06-18 16:07:35
-(epstopdf)                    size: 20431 bytes
+(epstopdf)                    date: 2021-06-19 20:04:36
+(epstopdf)                    size: 20344 bytes
 (epstopdf)             Output file: <images/losstest-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-18 16:09:28
-(epstopdf)                    size: 12337 bytes
+(epstopdf)                    date: 2021-06-19 20:16:13
+(epstopdf)                    size: 12330 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/losstest-eps-conver
 ted-to.pdf images/losstest.eps>
 (epstopdf)             \includegraphics on input line 651.
@@ -2129,11 +2129,11 @@ Package pdftex.def Info: images/losstest-eps-converted-to.pdf  used on input li
 ne 651.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 Package epstopdf Info: Source file: <images/valtest.eps>
-(epstopdf)                    date: 2021-06-18 16:07:29
-(epstopdf)                    size: 20088 bytes
+(epstopdf)                    date: 2021-06-19 20:04:32
+(epstopdf)                    size: 22724 bytes
 (epstopdf)             Output file: <images/valtest-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-18 16:09:28
-(epstopdf)                    size: 12552 bytes
+(epstopdf)                    date: 2021-06-19 20:16:13
+(epstopdf)                    size: 13419 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/valtest-eps-convert
 ed-to.pdf images/valtest.eps>
 (epstopdf)             \includegraphics on input line 655.
@@ -2226,193 +2226,334 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyrz' on input line 666.
 
-<images/battle1.png, id=795, 552.0625pt x 367.3725pt>
-File: images/battle1.png Graphic file (type png)
-<use images/battle1.png>
-Package pdftex.def Info: images/battle1.png  used on input line 671.
-(pdftex.def)             Requested size: 281.68515pt x 187.45839pt.
-<images/battle2.png, id=796, 551.05875pt x 375.4025pt>
-File: images/battle2.png Graphic file (type png)
-<use images/battle2.png>
-Package pdftex.def Info: images/battle2.png  used on input line 680.
-(pdftex.def)             Requested size: 281.68515pt x 191.89954pt.
-[25 <./images/battle1.png> <./images/battle2.png>]
-<images/kalmanx.png, id=804, 533.995pt x 354.32375pt>
-File: images/kalmanx.png Graphic file (type png)
-<use images/kalmanx.png>
-Package pdftex.def Info: images/kalmanx.png  used on input line 694.
-(pdftex.def)             Requested size: 230.0431pt x 152.64278pt.
-<images/nnx.png, id=805, 538.01pt x 371.3875pt>
-File: images/nnx.png Graphic file (type png)
-<use images/nnx.png>
-Package pdftex.def Info: images/nnx.png  used on input line 698.
-(pdftex.def)             Requested size: 230.0431pt x 158.79813pt.
-<images/kalmany.png, id=806, 560.0925pt x 388.45125pt>
-File: images/kalmany.png Graphic file (type png)
-<use images/kalmany.png>
-Package pdftex.def Info: images/kalmany.png  used on input line 706.
-(pdftex.def)             Requested size: 230.0431pt x 159.54462pt.
-<images/nny.png, id=807, 553.06625pt x 379.4175pt>
-File: images/nny.png Graphic file (type png)
-<use images/nny.png>
-Package pdftex.def Info: images/nny.png  used on input line 710.
-(pdftex.def)             Requested size: 230.0431pt x 157.81427pt.
- [26 <./images/kalmanx.png> <./images/nnx.png> <./images/kalmany.png> <./images
-/nny.png>]
-<images/kalmanz.png, id=814, 561.09625pt x 386.44376pt>
-File: images/kalmanz.png Graphic file (type png)
-<use images/kalmanz.png>
-Package pdftex.def Info: images/kalmanz.png  used on input line 720.
-(pdftex.def)             Requested size: 230.0431pt x 158.43706pt.
-<images/nnz.png, id=815, 562.1pt x 386.44376pt>
-File: images/nnz.png Graphic file (type png)
-<use images/nnz.png>
-Package pdftex.def Info: images/nnz.png  used on input line 724.
-(pdftex.def)             Requested size: 230.0431pt x 158.15402pt.
-<images/xy.png, id=816, 566.115pt x 376.40625pt>
-File: images/xy.png Graphic file (type png)
-<use images/xy.png>
-Package pdftex.def Info: images/xy.png  used on input line 736.
-(pdftex.def)             Requested size: 328.6279pt x 218.5053pt.
-<images/xz.png, id=817, 556.0775pt x 377.41pt>
-File: images/xz.png Graphic file (type png)
-<use images/xz.png>
-Package pdftex.def Info: images/xz.png  used on input line 743.
-(pdftex.def)             Requested size: 328.6279pt x 223.04428pt.
+Package epstopdf Info: Source file: <images/battle1.eps>
+(epstopdf)                    date: 2021-06-19 20:09:52
+(epstopdf)                    size: 32542 bytes
+(epstopdf)             Output file: <images/battle1-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=images/battle1-eps-convert
+ed-to.pdf images/battle1.eps>
+(epstopdf)             \includegraphics on input line 671.
+runsystem(repstopdf --outfile=images/battle1-eps-converted-to.pdf images/battle
+1.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <images/battle1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:17:56
+(epstopdf)                    size: 17233 bytes.
+<images/battle1-eps-converted-to.pdf, id=798, 722.7pt x 433.62pt>
+File: images/battle1-eps-converted-to.pdf Graphic file (type pdf)
+<use images/battle1-eps-converted-to.pdf>
+Package pdftex.def Info: images/battle1-eps-converted-to.pdf  used on input lin
+e 671.
+(pdftex.def)             Requested size: 281.68515pt x 169.01187pt.
+Package epstopdf Info: Source file: <images/battle2.eps>
+(epstopdf)                    date: 2021-06-19 20:09:51
+(epstopdf)                    size: 32468 bytes
+(epstopdf)             Output file: <images/battle2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:16:14
+(epstopdf)                    size: 16387 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/battle2-eps-convert
+ed-to.pdf images/battle2.eps>
+(epstopdf)             \includegraphics on input line 680.
+Package epstopdf Info: Output file is already uptodate.
+<images/battle2-eps-converted-to.pdf, id=799, 722.7pt x 433.62pt>
+File: images/battle2-eps-converted-to.pdf Graphic file (type pdf)
+<use images/battle2-eps-converted-to.pdf>
+Package pdftex.def Info: images/battle2-eps-converted-to.pdf  used on input lin
+e 680.
+(pdftex.def)             Requested size: 281.68515pt x 169.01187pt.
+Package epstopdf Info: Source file: <images/kalmanx.eps>
+(epstopdf)                    date: 2021-06-19 20:11:19
+(epstopdf)                    size: 29778 bytes
+(epstopdf)             Output file: <images/kalmanx-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:16:14
+(epstopdf)                    size: 16243 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/kalmanx-eps-convert
+ed-to.pdf images/kalmanx.eps>
+(epstopdf)             \includegraphics on input line 692.
+Package epstopdf Info: Output file is already uptodate.
+<images/kalmanx-eps-converted-to.pdf, id=800, 433.62pt x 289.08pt>
+File: images/kalmanx-eps-converted-to.pdf Graphic file (type pdf)
+<use images/kalmanx-eps-converted-to.pdf>
+Package pdftex.def Info: images/kalmanx-eps-converted-to.pdf  used on input lin
+e 692.
+(pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
+Package epstopdf Info: Source file: <images/nnx.eps>
+(epstopdf)                    date: 2021-06-19 20:11:27
+(epstopdf)                    size: 29114 bytes
+(epstopdf)             Output file: <images/nnx-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:16:15
+(epstopdf)                    size: 15808 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/nnx-eps-converted-t
+o.pdf images/nnx.eps>
+(epstopdf)             \includegraphics on input line 696.
+Package epstopdf Info: Output file is already uptodate.
+<images/nnx-eps-converted-to.pdf, id=801, 433.62pt x 289.08pt>
+File: images/nnx-eps-converted-to.pdf Graphic file (type pdf)
+<use images/nnx-eps-converted-to.pdf>
+Package pdftex.def Info: images/nnx-eps-converted-to.pdf  used on input line 69
+6.
+(pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <images/kalmany.eps>
+(epstopdf)                    date: 2021-06-19 20:11:22
+(epstopdf)                    size: 29972 bytes
+(epstopdf)             Output file: <images/kalmany-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:16:15
+(epstopdf)                    size: 16301 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/kalmany-eps-convert
+ed-to.pdf images/kalmany.eps>
+(epstopdf)             \includegraphics on input line 704.
+Package epstopdf Info: Output file is already uptodate.
+<images/kalmany-eps-converted-to.pdf, id=802, 433.62pt x 289.08pt>
+File: images/kalmany-eps-converted-to.pdf Graphic file (type pdf)
+<use images/kalmany-eps-converted-to.pdf>
+Package pdftex.def Info: images/kalmany-eps-converted-to.pdf  used on input lin
+e 704.
+(pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
+Package epstopdf Info: Source file: <images/nny.eps>
+(epstopdf)                    date: 2021-06-19 20:11:29
+(epstopdf)                    size: 28984 bytes
+(epstopdf)             Output file: <images/nny-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:16:15
+(epstopdf)                    size: 16030 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/nny-eps-converted-t
+o.pdf images/nny.eps>
+(epstopdf)             \includegraphics on input line 708.
+Package epstopdf Info: Output file is already uptodate.
+<images/nny-eps-converted-to.pdf, id=803, 433.62pt x 289.08pt>
+File: images/nny-eps-converted-to.pdf Graphic file (type pdf)
+<use images/nny-eps-converted-to.pdf>
+Package pdftex.def Info: images/nny-eps-converted-to.pdf  used on input line 70
+8.
+(pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25 <./images/battle1-eps-converted-to.pdf> <./images/battle2-eps-converted-to.
+pdf>]
+Package epstopdf Info: Source file: <images/kalmanz.eps>
+(epstopdf)                    date: 2021-06-19 20:11:23
+(epstopdf)                    size: 29896 bytes
+(epstopdf)             Output file: <images/kalmanz-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:16:16
+(epstopdf)                    size: 16246 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/kalmanz-eps-convert
+ed-to.pdf images/kalmanz.eps>
+(epstopdf)             \includegraphics on input line 718.
+Package epstopdf Info: Output file is already uptodate.
+<images/kalmanz-eps-converted-to.pdf, id=880, 433.62pt x 289.08pt>
+File: images/kalmanz-eps-converted-to.pdf Graphic file (type pdf)
+<use images/kalmanz-eps-converted-to.pdf>
+Package pdftex.def Info: images/kalmanz-eps-converted-to.pdf  used on input lin
+e 718.
+(pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
+Package epstopdf Info: Source file: <images/nnz.eps>
+(epstopdf)                    date: 2021-06-19 20:11:33
+(epstopdf)                    size: 29173 bytes
+(epstopdf)             Output file: <images/nnz-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:16:17
+(epstopdf)                    size: 15817 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/nnz-eps-converted-t
+o.pdf images/nnz.eps>
+(epstopdf)             \includegraphics on input line 722.
+Package epstopdf Info: Output file is already uptodate.
+<images/nnz-eps-converted-to.pdf, id=881, 433.62pt x 289.08pt>
+File: images/nnz-eps-converted-to.pdf Graphic file (type pdf)
+<use images/nnz-eps-converted-to.pdf>
+Package pdftex.def Info: images/nnz-eps-converted-to.pdf  used on input line 72
+2.
+(pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <images/xy.eps>
+(epstopdf)                    date: 2021-06-19 20:15:26
+(epstopdf)                    size: 31098 bytes
+(epstopdf)             Output file: <images/xy-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:16:17
+(epstopdf)                    size: 36302 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/xy-eps-converted-to
+.pdf images/xy.eps>
+(epstopdf)             \includegraphics on input line 734.
+Package epstopdf Info: Output file is already uptodate.
+<images/xy-eps-converted-to.pdf, id=882, 433.62pt x 289.08pt>
+File: images/xy-eps-converted-to.pdf Graphic file (type pdf)
+<use images/xy-eps-converted-to.pdf>
+Package pdftex.def Info: images/xy-eps-converted-to.pdf  used on input line 734
+.
+(pdftex.def)             Requested size: 328.6279pt x 219.09436pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <images/xz.eps>
+(epstopdf)                    date: 2021-06-19 20:15:28
+(epstopdf)                    size: 34203 bytes
+(epstopdf)             Output file: <images/xz-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:16:17
+(epstopdf)                    size: 37920 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/xz-eps-converted-to
+.pdf images/xz.eps>
+(epstopdf)             \includegraphics on input line 741.
+Package epstopdf Info: Output file is already uptodate.
+<images/xz-eps-converted-to.pdf, id=883, 433.62pt x 289.08pt>
+File: images/xz-eps-converted-to.pdf Graphic file (type pdf)
+<use images/xz-eps-converted-to.pdf>
+Package pdftex.def Info: images/xz-eps-converted-to.pdf  used on input line 741
+.
+(pdftex.def)             Requested size: 328.6279pt x 219.09436pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26 <./images/kalmanx-eps-converted-to.pdf> <./images/nnx-eps-converted-to.pdf>
+ <./images/kalmany-eps-converted-to.pdf> <./images/nny-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/yz.eps>
+(epstopdf)                    date: 2021-06-19 20:15:30
+(epstopdf)                    size: 35971 bytes
+(epstopdf)             Output file: <images/yz-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 20:16:18
+(epstopdf)                    size: 38103 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/yz-eps-converted-to
+.pdf images/yz.eps>
+(epstopdf)             \includegraphics on input line 748.
+Package epstopdf Info: Output file is already uptodate.
+<images/yz-eps-converted-to.pdf, id=1029, 433.62pt x 289.08pt>
+File: images/yz-eps-converted-to.pdf Graphic file (type pdf)
+<use images/yz-eps-converted-to.pdf>
+Package pdftex.def Info: images/yz-eps-converted-to.pdf  used on input line 748
+.
+(pdftex.def)             Requested size: 328.6279pt x 219.09436pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[27 <./images/kalmanz.png> <./images/nnz.png> <./images/xy.png>]
-<images/yz.png, id=824, 563.10374pt x 380.42125pt>
-File: images/yz.png Graphic file (type png)
-<use images/yz.png>
-Package pdftex.def Info: images/yz.png  used on input line 750.
-(pdftex.def)             Requested size: 328.6279pt x 222.01439pt.
- [28 <./images/xz.png> <./images/yz.png>]
+[27 <./images/kalmanz-eps-converted-to.pdf> <./images/nnz-eps-converted-to.pdf>
+ <./images/xy-eps-converted-to.pdf>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRF' on input line 758.
+(hyperref)                removing `\CYRF' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 758.
+(hyperref)                removing `\cyri' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 758.
+(hyperref)                removing `\cyrl' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrsftsn' on input line 758.
+(hyperref)                removing `\cyrsftsn' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 758.
+(hyperref)                removing `\cyrt' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 758.
+(hyperref)                removing `\cyrr' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 758.
+(hyperref)                removing `\cyra' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrc' on input line 758.
+(hyperref)                removing `\cyrc' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 758.
+(hyperref)                removing `\cyri' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrya' on input line 758.
+(hyperref)                removing `\cyrya' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrs' on input line 758.
+(hyperref)                removing `\cyrs' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrv' on input line 758.
+(hyperref)                removing `\cyrv' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 758.
+(hyperref)                removing `\cyre' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 758.
+(hyperref)                removing `\cyrr' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrh' on input line 758.
+(hyperref)                removing `\cyrh' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrz' on input line 758.
+(hyperref)                removing `\cyrz' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrv' on input line 758.
+(hyperref)                removing `\cyrv' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyru' on input line 758.
+(hyperref)                removing `\cyru' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrk' on input line 758.
+(hyperref)                removing `\cyrk' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 758.
+(hyperref)                removing `\cyro' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrv' on input line 758.
+(hyperref)                removing `\cyrv' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrery' on input line 758.
+(hyperref)                removing `\cyrery' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrh' on input line 758.
+(hyperref)                removing `\cyrh' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 758.
+(hyperref)                removing `\cyro' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrb' on input line 758.
+(hyperref)                removing `\cyrb' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrhrdsn' on input line 758.
+(hyperref)                removing `\cyrhrdsn' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 758.
+(hyperref)                removing `\cyre' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrk' on input line 758.
+(hyperref)                removing `\cyrk' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 758.
+(hyperref)                removing `\cyrt' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 758.
+(hyperref)                removing `\cyro' on input line 756.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrv' on input line 758.
+(hyperref)                removing `\cyrv' on input line 756.
 
 Package epstopdf Info: Source file: <images/hgv0.eps>
 (epstopdf)                    date: 2021-06-15 20:26:26
@@ -2422,14 +2563,18 @@ Package epstopdf Info: Source file: <images/hgv0.eps>
 (epstopdf)                    size: 9382 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/hgv0-eps-converted-
 to.pdf images/hgv0.eps>
-(epstopdf)             \includegraphics on input line 762.
+(epstopdf)             \includegraphics on input line 760.
 Package epstopdf Info: Output file is already uptodate.
-<images/hgv0-eps-converted-to.pdf, id=832, 433.62pt x 289.08pt>
+<images/hgv0-eps-converted-to.pdf, id=1140, 433.62pt x 289.08pt>
 File: images/hgv0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/hgv0-eps-converted-to.pdf>
 Package pdftex.def Info: images/hgv0-eps-converted-to.pdf  used on input line 7
-62.
+60.
 (pdftex.def)             Requested size: 281.68515pt x 187.79831pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28 <./images/xz-eps-converted-to.pdf> <./images/yz-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/hgv1.eps>
 (epstopdf)                    date: 2021-06-15 22:29:22
 (epstopdf)                    size: 47878 bytes
@@ -2438,13 +2583,13 @@ Package epstopdf Info: Source file: <images/hgv1.eps>
 (epstopdf)                    size: 19198 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/hgv1-eps-converted-
 to.pdf images/hgv1.eps>
-(epstopdf)             \includegraphics on input line 777.
+(epstopdf)             \includegraphics on input line 775.
 Package epstopdf Info: Output file is already uptodate.
-<images/hgv1-eps-converted-to.pdf, id=833, 433.62pt x 289.08pt>
+<images/hgv1-eps-converted-to.pdf, id=1225, 433.62pt x 289.08pt>
 File: images/hgv1-eps-converted-to.pdf Graphic file (type pdf)
 <use images/hgv1-eps-converted-to.pdf>
 Package pdftex.def Info: images/hgv1-eps-converted-to.pdf  used on input line 7
-77.
+75.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 Package epstopdf Info: Source file: <images/hgv2.eps>
 (epstopdf)                    date: 2021-06-15 22:29:24
@@ -2454,85 +2599,86 @@ Package epstopdf Info: Source file: <images/hgv2.eps>
 (epstopdf)                    size: 12955 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/hgv2-eps-converted-
 to.pdf images/hgv2.eps>
-(epstopdf)             \includegraphics on input line 781.
+(epstopdf)             \includegraphics on input line 779.
 Package epstopdf Info: Output file is already uptodate.
-<images/hgv2-eps-converted-to.pdf, id=834, 433.62pt x 289.08pt>
+<images/hgv2-eps-converted-to.pdf, id=1226, 433.62pt x 289.08pt>
 File: images/hgv2-eps-converted-to.pdf Graphic file (type pdf)
 <use images/hgv2-eps-converted-to.pdf>
 Package pdftex.def Info: images/hgv2-eps-converted-to.pdf  used on input line 7
-81.
+79.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRO' on input line 789.
-
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrb' on input line 789.
+(hyperref)                removing `\CYRO' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyru' on input line 789.
+(hyperref)                removing `\cyrb' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrch' on input line 789.
+(hyperref)                removing `\cyru' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 789.
+(hyperref)                removing `\cyrch' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 789.
+(hyperref)                removing `\cyre' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 789.
+(hyperref)                removing `\cyrn' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 789.
+(hyperref)                removing `\cyri' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 789.
+(hyperref)                removing `\cyre' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrv' on input line 789.
+(hyperref)                removing `\cyri' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 789.
+(hyperref)                removing `\cyrv' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 789.
+(hyperref)                removing `\cyra' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 789.
+(hyperref)                removing `\cyrl' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrd' on input line 789.
+(hyperref)                removing `\cyri' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 789.
+(hyperref)                removing `\cyrd' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrc' on input line 789.
+(hyperref)                removing `\cyra' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 789.
+(hyperref)                removing `\cyrc' on input line 787.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrya' on input line 789.
+(hyperref)                removing `\cyri' on input line 787.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrya' on input line 787.
 
 Package epstopdf Info: Source file: <images/losstrain0.eps>
 (epstopdf)                    date: 2021-06-15 20:22:44
@@ -2542,13 +2688,13 @@ Package epstopdf Info: Source file: <images/losstrain0.eps>
 (epstopdf)                    size: 13207 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/losstrain0-eps-conv
 erted-to.pdf images/losstrain0.eps>
-(epstopdf)             \includegraphics on input line 793.
+(epstopdf)             \includegraphics on input line 791.
 Package epstopdf Info: Output file is already uptodate.
-<images/losstrain0-eps-converted-to.pdf, id=837, 433.62pt x 289.08pt>
+<images/losstrain0-eps-converted-to.pdf, id=1229, 433.62pt x 289.08pt>
 File: images/losstrain0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/losstrain0-eps-converted-to.pdf>
 Package pdftex.def Info: images/losstrain0-eps-converted-to.pdf  used on input 
-line 793.
+line 791.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 Package epstopdf Info: Source file: <images/valtrain0.eps>
 (epstopdf)                    date: 2021-06-15 20:22:49
@@ -2558,64 +2704,67 @@ Package epstopdf Info: Source file: <images/valtrain0.eps>
 (epstopdf)                    size: 14286 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/valtrain0-eps-conve
 rted-to.pdf images/valtrain0.eps>
-(epstopdf)             \includegraphics on input line 797.
+(epstopdf)             \includegraphics on input line 795.
 Package epstopdf Info: Output file is already uptodate.
-<images/valtrain0-eps-converted-to.pdf, id=838, 433.62pt x 289.08pt>
+<images/valtrain0-eps-converted-to.pdf, id=1230, 433.62pt x 289.08pt>
 File: images/valtrain0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/valtrain0-eps-converted-to.pdf>
 Package pdftex.def Info: images/valtrain0-eps-converted-to.pdf  used on input l
-ine 797.
+ine 795.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [29 <./images/hgv0-eps-converted-to.pdf> <./images/hgv1-eps-converted-to.pdf> <
 ./images/hgv2-eps-converted-to.pdf>] [30 <./images/losstrain0-eps-converted-to.
 pdf> <./images/valtrain0-eps-converted-to.pdf>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRT' on input line 810.
+(hyperref)                removing `\CYRT' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 810.
+(hyperref)                removing `\cyre' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrs' on input line 810.
+(hyperref)                removing `\cyrs' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 810.
+(hyperref)                removing `\cyrt' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 810.
+(hyperref)                removing `\cyri' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 810.
+(hyperref)                removing `\cyrr' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 810.
+(hyperref)                removing `\cyro' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrv' on input line 810.
+(hyperref)                removing `\cyrv' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 810.
+(hyperref)                removing `\cyra' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 810.
+(hyperref)                removing `\cyrn' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 810.
+(hyperref)                removing `\cyri' on input line 808.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 810.
+(hyperref)                removing `\cyre' on input line 808.
 
 Package epstopdf Info: Source file: <images/losstest0.eps>
 (epstopdf)                    date: 2021-06-15 22:16:36
@@ -2625,13 +2774,13 @@ Package epstopdf Info: Source file: <images/losstest0.eps>
 (epstopdf)                    size: 11756 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/losstest0-eps-conve
 rted-to.pdf images/losstest0.eps>
-(epstopdf)             \includegraphics on input line 814.
+(epstopdf)             \includegraphics on input line 812.
 Package epstopdf Info: Output file is already uptodate.
-<images/losstest0-eps-converted-to.pdf, id=977, 433.62pt x 289.08pt>
+<images/losstest0-eps-converted-to.pdf, id=1364, 433.62pt x 289.08pt>
 File: images/losstest0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/losstest0-eps-converted-to.pdf>
 Package pdftex.def Info: images/losstest0-eps-converted-to.pdf  used on input l
-ine 814.
+ine 812.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 Package epstopdf Info: Source file: <images/valtest0.eps>
 (epstopdf)                    date: 2021-06-15 22:16:32
@@ -2641,91 +2790,91 @@ Package epstopdf Info: Source file: <images/valtest0.eps>
 (epstopdf)                    size: 13048 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/valtest0-eps-conver
 ted-to.pdf images/valtest0.eps>
-(epstopdf)             \includegraphics on input line 818.
+(epstopdf)             \includegraphics on input line 816.
 Package epstopdf Info: Output file is already uptodate.
-<images/valtest0-eps-converted-to.pdf, id=978, 433.62pt x 289.08pt>
+<images/valtest0-eps-converted-to.pdf, id=1365, 433.62pt x 289.08pt>
 File: images/valtest0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/valtest0-eps-converted-to.pdf>
 Package pdftex.def Info: images/valtest0-eps-converted-to.pdf  used on input li
-ne 818.
+ne 816.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 [31 <./images/losstest0-eps-converted-to.pdf> <./images/valtest0-eps-converted-
 to.pdf>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRS' on input line 828.
+(hyperref)                removing `\CYRS' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 828.
+(hyperref)                removing `\cyrr' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 828.
+(hyperref)                removing `\cyra' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrv' on input line 828.
+(hyperref)                removing `\cyrv' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 828.
+(hyperref)                removing `\cyrn' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 828.
+(hyperref)                removing `\cyri' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 828.
+(hyperref)                removing `\cyrt' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 828.
+(hyperref)                removing `\cyre' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 828.
+(hyperref)                removing `\cyrl' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrsftsn' on input line 828.
+(hyperref)                removing `\cyrsftsn' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 828.
+(hyperref)                removing `\cyrn' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrery' on input line 828.
+(hyperref)                removing `\cyrery' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrishrt' on input line 828.
+(hyperref)                removing `\cyrishrt' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 828.
+(hyperref)                removing `\cyra' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 828.
+(hyperref)                removing `\cyrn' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 828.
+(hyperref)                removing `\cyra' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 828.
+(hyperref)                removing `\cyrl' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 828.
+(hyperref)                removing `\cyri' on input line 826.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrz' on input line 828.
+(hyperref)                removing `\cyrz' on input line 826.
 
 Package epstopdf Info: Source file: <images/battle3.eps>
 (epstopdf)                    date: 2021-06-17 18:37:37
@@ -2735,13 +2884,13 @@ Package epstopdf Info: Source file: <images/battle3.eps>
 (epstopdf)                    size: 16560 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/battle3-eps-convert
 ed-to.pdf images/battle3.eps>
-(epstopdf)             \includegraphics on input line 833.
+(epstopdf)             \includegraphics on input line 831.
 Package epstopdf Info: Output file is already uptodate.
-<images/battle3-eps-converted-to.pdf, id=1047, 722.7pt x 433.62pt>
+<images/battle3-eps-converted-to.pdf, id=1434, 722.7pt x 433.62pt>
 File: images/battle3-eps-converted-to.pdf Graphic file (type pdf)
 <use images/battle3-eps-converted-to.pdf>
 Package pdftex.def Info: images/battle3-eps-converted-to.pdf  used on input lin
-e 833.
+e 831.
 (pdftex.def)             Requested size: 281.68515pt x 169.01187pt.
 Package epstopdf Info: Source file: <images/battle4.eps>
 (epstopdf)                    date: 2021-06-17 18:37:34
@@ -2751,13 +2900,13 @@ Package epstopdf Info: Source file: <images/battle4.eps>
 (epstopdf)                    size: 16011 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/battle4-eps-convert
 ed-to.pdf images/battle4.eps>
-(epstopdf)             \includegraphics on input line 842.
+(epstopdf)             \includegraphics on input line 840.
 Package epstopdf Info: Output file is already uptodate.
-<images/battle4-eps-converted-to.pdf, id=1048, 722.7pt x 433.62pt>
+<images/battle4-eps-converted-to.pdf, id=1435, 722.7pt x 433.62pt>
 File: images/battle4-eps-converted-to.pdf Graphic file (type pdf)
 <use images/battle4-eps-converted-to.pdf>
 Package pdftex.def Info: images/battle4-eps-converted-to.pdf  used on input lin
-e 842.
+e 840.
 (pdftex.def)             Requested size: 281.68515pt x 169.01187pt.
 [32 <./images/battle3-eps-converted-to.pdf> <./images/battle4-eps-converted-to.
 pdf>]
@@ -2769,13 +2918,13 @@ Package epstopdf Info: Source file: <images/kalmanx0.eps>
 (epstopdf)                    size: 20968 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/kalmanx0-eps-conver
 ted-to.pdf images/kalmanx0.eps>
-(epstopdf)             \includegraphics on input line 856.
+(epstopdf)             \includegraphics on input line 854.
 Package epstopdf Info: Output file is already uptodate.
-<images/kalmanx0-eps-converted-to.pdf, id=1126, 433.62pt x 289.08pt>
+<images/kalmanx0-eps-converted-to.pdf, id=1513, 433.62pt x 289.08pt>
 File: images/kalmanx0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/kalmanx0-eps-converted-to.pdf>
 Package pdftex.def Info: images/kalmanx0-eps-converted-to.pdf  used on input li
-ne 856.
+ne 854.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 Package epstopdf Info: Source file: <images/nnx0.eps>
 (epstopdf)                    date: 2021-06-15 22:24:56
@@ -2785,13 +2934,13 @@ Package epstopdf Info: Source file: <images/nnx0.eps>
 (epstopdf)                    size: 20572 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/nnx0-eps-converted-
 to.pdf images/nnx0.eps>
-(epstopdf)             \includegraphics on input line 860.
+(epstopdf)             \includegraphics on input line 858.
 Package epstopdf Info: Output file is already uptodate.
-<images/nnx0-eps-converted-to.pdf, id=1127, 433.62pt x 289.08pt>
+<images/nnx0-eps-converted-to.pdf, id=1514, 433.62pt x 289.08pt>
 File: images/nnx0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/nnx0-eps-converted-to.pdf>
 Package pdftex.def Info: images/nnx0-eps-converted-to.pdf  used on input line 8
-60.
+58.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 Package epstopdf Info: Source file: <images/kalmany0.eps>
 (epstopdf)                    date: 2021-06-15 22:24:49
@@ -2801,13 +2950,13 @@ Package epstopdf Info: Source file: <images/kalmany0.eps>
 (epstopdf)                    size: 20913 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/kalmany0-eps-conver
 ted-to.pdf images/kalmany0.eps>
-(epstopdf)             \includegraphics on input line 868.
+(epstopdf)             \includegraphics on input line 866.
 Package epstopdf Info: Output file is already uptodate.
-<images/kalmany0-eps-converted-to.pdf, id=1128, 433.62pt x 289.08pt>
+<images/kalmany0-eps-converted-to.pdf, id=1515, 433.62pt x 289.08pt>
 File: images/kalmany0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/kalmany0-eps-converted-to.pdf>
 Package pdftex.def Info: images/kalmany0-eps-converted-to.pdf  used on input li
-ne 868.
+ne 866.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 Package epstopdf Info: Source file: <images/nny0.eps>
 (epstopdf)                    date: 2021-06-15 22:24:59
@@ -2817,13 +2966,13 @@ Package epstopdf Info: Source file: <images/nny0.eps>
 (epstopdf)                    size: 20591 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/nny0-eps-converted-
 to.pdf images/nny0.eps>
-(epstopdf)             \includegraphics on input line 872.
+(epstopdf)             \includegraphics on input line 870.
 Package epstopdf Info: Output file is already uptodate.
-<images/nny0-eps-converted-to.pdf, id=1129, 433.62pt x 289.08pt>
+<images/nny0-eps-converted-to.pdf, id=1516, 433.62pt x 289.08pt>
 File: images/nny0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/nny0-eps-converted-to.pdf>
 Package pdftex.def Info: images/nny0-eps-converted-to.pdf  used on input line 8
-72.
+70.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
  [33 <./images/kalmanx0-eps-converted-to.pdf> <./images/nnx0-eps-converted-to.p
 df> <./images/kalmany0-eps-converted-to.pdf> <./images/nny0-eps-converted-to.pd
@@ -2836,13 +2985,13 @@ Package epstopdf Info: Source file: <images/kalmanz0.eps>
 (epstopdf)                    size: 19784 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/kalmanz0-eps-conver
 ted-to.pdf images/kalmanz0.eps>
-(epstopdf)             \includegraphics on input line 882.
+(epstopdf)             \includegraphics on input line 880.
 Package epstopdf Info: Output file is already uptodate.
-<images/kalmanz0-eps-converted-to.pdf, id=1277, 433.62pt x 289.08pt>
+<images/kalmanz0-eps-converted-to.pdf, id=1665, 433.62pt x 289.08pt>
 File: images/kalmanz0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/kalmanz0-eps-converted-to.pdf>
 Package pdftex.def Info: images/kalmanz0-eps-converted-to.pdf  used on input li
-ne 882.
+ne 880.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 Package epstopdf Info: Source file: <images/nnz0.eps>
 (epstopdf)                    date: 2021-06-15 22:25:01
@@ -2852,13 +3001,13 @@ Package epstopdf Info: Source file: <images/nnz0.eps>
 (epstopdf)                    size: 19310 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/nnz0-eps-converted-
 to.pdf images/nnz0.eps>
-(epstopdf)             \includegraphics on input line 886.
+(epstopdf)             \includegraphics on input line 884.
 Package epstopdf Info: Output file is already uptodate.
-<images/nnz0-eps-converted-to.pdf, id=1278, 433.62pt x 289.08pt>
+<images/nnz0-eps-converted-to.pdf, id=1666, 433.62pt x 289.08pt>
 File: images/nnz0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/nnz0-eps-converted-to.pdf>
 Package pdftex.def Info: images/nnz0-eps-converted-to.pdf  used on input line 8
-86.
+84.
 (pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 Package epstopdf Info: Source file: <images/xy0.eps>
 (epstopdf)                    date: 2021-06-15 22:25:48
@@ -2868,13 +3017,13 @@ Package epstopdf Info: Source file: <images/xy0.eps>
 (epstopdf)                    size: 86202 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/xy0-eps-converted-t
 o.pdf images/xy0.eps>
-(epstopdf)             \includegraphics on input line 898.
+(epstopdf)             \includegraphics on input line 896.
 Package epstopdf Info: Output file is already uptodate.
-<images/xy0-eps-converted-to.pdf, id=1279, 433.62pt x 289.08pt>
+<images/xy0-eps-converted-to.pdf, id=1667, 433.62pt x 289.08pt>
 File: images/xy0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/xy0-eps-converted-to.pdf>
 Package pdftex.def Info: images/xy0-eps-converted-to.pdf  used on input line 89
-8.
+6.
 (pdftex.def)             Requested size: 328.6279pt x 219.09436pt.
 Package epstopdf Info: Source file: <images/xz0.eps>
 (epstopdf)                    date: 2021-06-15 22:25:52
@@ -2884,13 +3033,13 @@ Package epstopdf Info: Source file: <images/xz0.eps>
 (epstopdf)                    size: 87479 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/xz0-eps-converted-t
 o.pdf images/xz0.eps>
-(epstopdf)             \includegraphics on input line 905.
+(epstopdf)             \includegraphics on input line 903.
 Package epstopdf Info: Output file is already uptodate.
-<images/xz0-eps-converted-to.pdf, id=1280, 433.62pt x 289.08pt>
+<images/xz0-eps-converted-to.pdf, id=1668, 433.62pt x 289.08pt>
 File: images/xz0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/xz0-eps-converted-to.pdf>
 Package pdftex.def Info: images/xz0-eps-converted-to.pdf  used on input line 90
-5.
+3.
 (pdftex.def)             Requested size: 328.6279pt x 219.09436pt.
 
 
@@ -2906,41 +3055,41 @@ Package epstopdf Info: Source file: <images/yz0.eps>
 (epstopdf)                    size: 86620 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/yz0-eps-converted-t
 o.pdf images/yz0.eps>
-(epstopdf)             \includegraphics on input line 912.
+(epstopdf)             \includegraphics on input line 910.
 Package epstopdf Info: Output file is already uptodate.
-<images/yz0-eps-converted-to.pdf, id=1387, 433.62pt x 289.08pt>
+<images/yz0-eps-converted-to.pdf, id=1775, 433.62pt x 289.08pt>
 File: images/yz0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/yz0-eps-converted-to.pdf>
 Package pdftex.def Info: images/yz0-eps-converted-to.pdf  used on input line 91
-2.
+0.
 (pdftex.def)             Requested size: 328.6279pt x 219.09436pt.
  [35 <./images/xz0-eps-converted-to.pdf> <./images/yz0-eps-converted-to.pdf>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRV' on input line 921.
+(hyperref)                removing `\CYRV' on input line 919.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrery' on input line 921.
+(hyperref)                removing `\cyrery' on input line 919.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrv' on input line 921.
+(hyperref)                removing `\cyrv' on input line 919.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 921.
+(hyperref)                removing `\cyro' on input line 919.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrd' on input line 921.
+(hyperref)                removing `\cyrd' on input line 919.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrery' on input line 921.
+(hyperref)                removing `\cyrery' on input line 919.
 
 
-Overfull \hbox (0.80344pt too wide) in paragraph at lines 930--931
+Overfull \hbox (0.80344pt too wide) in paragraph at lines 928--929
 []\T2A/cmr/m/n/12 Средние по тра-ек-то-ри-ям бал-ли-сти-че-ских объ-ек-тов по-т
 е-ри RNN филь-тра Кал-
  []
@@ -2948,127 +3097,127 @@ Overfull \hbox (0.80344pt too wide) in paragraph at lines 930--931
 [36]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRS' on input line 946.
+(hyperref)                removing `\CYRS' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrp' on input line 946.
+(hyperref)                removing `\cyrp' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 946.
+(hyperref)                removing `\cyri' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrs' on input line 946.
+(hyperref)                removing `\cyrs' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 946.
+(hyperref)                removing `\cyro' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrk' on input line 946.
+(hyperref)                removing `\cyrk' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 946.
+(hyperref)                removing `\cyrl' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 946.
+(hyperref)                removing `\cyri' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 946.
+(hyperref)                removing `\cyrt' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 946.
+(hyperref)                removing `\cyre' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 946.
+(hyperref)                removing `\cyrr' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyra' on input line 946.
+(hyperref)                removing `\cyra' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrt' on input line 946.
+(hyperref)                removing `\cyrt' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyru' on input line 946.
+(hyperref)                removing `\cyru' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 946.
+(hyperref)                removing `\cyrr' on input line 944.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrery' on input line 946.
+(hyperref)                removing `\cyrery' on input line 944.
 
 No file coursework.bbl.
 
-Underfull \hbox (badness 1043) in paragraph at lines 958--959
+Underfull \hbox (badness 1043) in paragraph at lines 956--957
 []\T2A/cmr/m/n/12 Книга Spokoiny, Vladimir, Dickhaus, Thorsten <<Basics of Mode
 rn Mathematical
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 960--961
+Underfull \hbox (badness 1603) in paragraph at lines 958--959
 []\T2A/cmr/m/n/12 Книга Richard S. Sutton and Andrew G. Barto <<Reinforcement L
 earning: An
  []
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRP' on input line 965.
+(hyperref)                removing `\CYRP' on input line 963.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrr' on input line 965.
+(hyperref)                removing `\cyrr' on input line 963.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 965.
+(hyperref)                removing `\cyri' on input line 963.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrl' on input line 965.
+(hyperref)                removing `\cyrl' on input line 963.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyro' on input line 965.
+(hyperref)                removing `\cyro' on input line 963.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrzh' on input line 965.
+(hyperref)                removing `\cyrzh' on input line 963.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 965.
+(hyperref)                removing `\cyre' on input line 963.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 965.
+(hyperref)                removing `\cyrn' on input line 963.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 965.
+(hyperref)                removing `\cyri' on input line 963.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 965.
+(hyperref)                removing `\cyre' on input line 963.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 968.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 966.
 [37]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 968.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 966.
  (./coursework.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 968.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 968.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 966.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 966.
 Package rerunfilecheck Info: File `coursework.out' has not changed.
 (rerunfilecheck)             Checksum: 358CBC27C63150D3E103D5FB75670B06;1337.
 
@@ -3078,11 +3227,11 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 968.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 966.
  ) 
 Here is how much of TeX's memory you used:
  12910 strings out of 480608
- 193882 string characters out of 5903629
+ 194894 string characters out of 5903629
  703980 words of memory out of 5000000
  28304 multiletter control sequences out of 15000+600000
  560611 words of font info for 100 fonts, out of 8000000 for 9000
@@ -3118,10 +3267,10 @@ ts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2020/texmf-dist/fonts
 ype1/public/cm-super/sfti0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/typ
 e1/public/cm-super/sfti1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1
 /public/cm-super/sftt1095.pfb>
-Output written on coursework.pdf (37 pages, 6629352 bytes).
+Output written on coursework.pdf (37 pages, 2400407 bytes).
 PDF statistics:
- 1619 PDF objects out of 1728 (max. 8388607)
- 699 compressed objects within 7 object streams
+ 2007 PDF objects out of 2073 (max. 8388607)
+ 743 compressed objects within 8 object streams
  200 named destinations out of 1000 (max. 500000)
  424 words of extra memory for PDF output out of 10000 (max. 10000000)
 
