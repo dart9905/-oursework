@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.23)  15 JUN 2021 22:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.23)  19 JUN 2021 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1246,43 +1246,104 @@ LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line
  (/usr/local/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ) [8]
-<images/kalmanfilter1.png, id=237, 560.8152pt x 263.0628pt>
-File: images/kalmanfilter1.png Graphic file (type png)
-<use images/kalmanfilter1.png>
-Package pdftex.def Info: images/kalmanfilter1.png  used on input line 272.
-(pdftex.def)             Requested size: 422.52057pt x 198.19173pt.
-<images/kalmanfilter2.png, id=242, 560.8152pt x 263.0628pt>
-File: images/kalmanfilter2.png Graphic file (type png)
-<use images/kalmanfilter2.png>
-Package pdftex.def Info: images/kalmanfilter2.png  used on input line 281.
-(pdftex.def)             Requested size: 422.52057pt x 198.19173pt.
-<images/kalmanfilter3.png, id=243, 554.3109pt x 264.5082pt>
-File: images/kalmanfilter3.png Graphic file (type png)
-<use images/kalmanfilter3.png>
-Package pdftex.def Info: images/kalmanfilter3.png  used on input line 288.
-(pdftex.def)             Requested size: 422.52057pt x 201.62968pt.
+Package epstopdf Info: Source file: <images/kalmanfilter1.eps>
+(epstopdf)                    date: 2021-06-17 17:24:00
+(epstopdf)                    size: 46984 bytes
+(epstopdf)             Output file: <images/kalmanfilter1-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2021-06-17 17:36:09
+(epstopdf)                    size: 32291 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/kalmanfilter1-eps-c
+onverted-to.pdf images/kalmanfilter1.eps>
+(epstopdf)             \includegraphics on input line 272.
+Package epstopdf Info: Output file is already uptodate.
+<images/kalmanfilter1-eps-converted-to.pdf, id=237, 867.24pt x 433.62pt>
+File: images/kalmanfilter1-eps-converted-to.pdf Graphic file (type pdf)
+<use images/kalmanfilter1-eps-converted-to.pdf>
+Package pdftex.def Info: images/kalmanfilter1-eps-converted-to.pdf  used on inp
+ut line 272.
+(pdftex.def)             Requested size: 422.52057pt x 211.26483pt.
+Package epstopdf Info: Source file: <images/kalmanfilter2.eps>
+(epstopdf)                    date: 2021-06-17 15:26:31
+(epstopdf)                    size: 43894 bytes
+(epstopdf)             Output file: <images/kalmanfilter2-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2021-06-17 15:32:08
+(epstopdf)                    size: 30868 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/kalmanfilter2-eps-c
+onverted-to.pdf images/kalmanfilter2.eps>
+(epstopdf)             \includegraphics on input line 281.
+Package epstopdf Info: Output file is already uptodate.
+<images/kalmanfilter2-eps-converted-to.pdf, id=241, 867.24pt x 433.62pt>
+File: images/kalmanfilter2-eps-converted-to.pdf Graphic file (type pdf)
+<use images/kalmanfilter2-eps-converted-to.pdf>
+Package pdftex.def Info: images/kalmanfilter2-eps-converted-to.pdf  used on inp
+ut line 281.
+(pdftex.def)             Requested size: 422.52057pt x 211.26483pt.
+Package epstopdf Info: Source file: <images/kalmanfilter3.eps>
+(epstopdf)                    date: 2021-06-17 15:26:33
+(epstopdf)                    size: 45643 bytes
+(epstopdf)             Output file: <images/kalmanfilter3-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2021-06-17 15:32:09
+(epstopdf)                    size: 32733 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/kalmanfilter3-eps-c
+onverted-to.pdf images/kalmanfilter3.eps>
+(epstopdf)             \includegraphics on input line 288.
+Package epstopdf Info: Output file is already uptodate.
+<images/kalmanfilter3-eps-converted-to.pdf, id=242, 867.24pt x 433.62pt>
+File: images/kalmanfilter3-eps-converted-to.pdf Graphic file (type pdf)
+<use images/kalmanfilter3-eps-converted-to.pdf>
+Package pdftex.def Info: images/kalmanfilter3-eps-converted-to.pdf  used on inp
+ut line 288.
+(pdftex.def)             Requested size: 422.52057pt x 211.26483pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/kalmanfilter4.png, id=246, 552.1428pt x 265.2309pt>
-File: images/kalmanfilter4.png Graphic file (type png)
-<use images/kalmanfilter4.png>
-Package pdftex.def Info: images/kalmanfilter4.png  used on input line 297.
-(pdftex.def)             Requested size: 422.52057pt x 202.96976pt.
+Package epstopdf Info: Source file: <images/kalmanfilter4.eps>
+(epstopdf)                    date: 2021-06-17 15:26:35
+(epstopdf)                    size: 18321 bytes
+(epstopdf)             Output file: <images/kalmanfilter4-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2021-06-17 15:32:09
+(epstopdf)                    size: 12007 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/kalmanfilter4-eps-c
+onverted-to.pdf images/kalmanfilter4.eps>
+(epstopdf)             \includegraphics on input line 297.
+Package epstopdf Info: Output file is already uptodate.
+<images/kalmanfilter4-eps-converted-to.pdf, id=245, 867.24pt x 433.62pt>
+File: images/kalmanfilter4-eps-converted-to.pdf Graphic file (type pdf)
+<use images/kalmanfilter4-eps-converted-to.pdf>
+Package pdftex.def Info: images/kalmanfilter4-eps-converted-to.pdf  used on inp
+ut line 297.
+(pdftex.def)             Requested size: 422.52057pt x 211.26483pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/kalmanfilter5.png, id=247, 552.1428pt x 265.2309pt>
-File: images/kalmanfilter5.png Graphic file (type png)
-<use images/kalmanfilter5.png>
-Package pdftex.def Info: images/kalmanfilter5.png  used on input line 304.
-(pdftex.def)             Requested size: 422.52057pt x 202.96976pt.
+Package epstopdf Info: Source file: <images/kalmanfilter5.eps>
+(epstopdf)                    date: 2021-06-17 15:26:38
+(epstopdf)                    size: 18292 bytes
+(epstopdf)             Output file: <images/kalmanfilter5-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2021-06-17 15:32:09
+(epstopdf)                    size: 11994 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/kalmanfilter5-eps-c
+onverted-to.pdf images/kalmanfilter5.eps>
+(epstopdf)             \includegraphics on input line 304.
+Package epstopdf Info: Output file is already uptodate.
+<images/kalmanfilter5-eps-converted-to.pdf, id=246, 867.24pt x 433.62pt>
+File: images/kalmanfilter5-eps-converted-to.pdf Graphic file (type pdf)
+<use images/kalmanfilter5-eps-converted-to.pdf>
+Package pdftex.def Info: images/kalmanfilter5-eps-converted-to.pdf  used on inp
+ut line 304.
+(pdftex.def)             Requested size: 422.52057pt x 211.26483pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9 <./images/kalmanfilter1.png> <./images/kalmanfilter2.png>] [10 <./images/kal
-manfilter3.png> <./images/kalmanfilter4.png>]
+[9 <./images/kalmanfilter1-eps-converted-to.pdf> <./images/kalmanfilter2-eps-co
+nverted-to.pdf>] [10 <./images/kalmanfilter3-eps-converted-to.pdf> <./images/ka
+lmanfilter4-eps-converted-to.pdf>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\CYRI' on input line 313.
@@ -1299,7 +1360,7 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyrg' on input line 313.
 
-[11 <./images/kalmanfilter5.png>]
+[11 <./images/kalmanfilter5-eps-converted-to.pdf>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\CYRR' on input line 322.
@@ -1593,13 +1654,13 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyra' on input line 456.
 
-<images/RNN1.png, id=331, 1039.885pt x 546.04pt>
+<images/RNN1.png, id=501, 1039.885pt x 546.04pt>
 File: images/RNN1.png Graphic file (type png)
 <use images/RNN1.png>
 Package pdftex.def Info: images/RNN1.png  used on input line 460.
 (pdftex.def)             Requested size: 422.52057pt x 221.86153pt.
 [16 <./images/RNN1.png>]
-<images/RNN2.png, id=347, 998.73125pt x 216.81pt>
+<images/RNN2.png, id=517, 998.73125pt x 216.81pt>
 File: images/RNN2.png Graphic file (type png)
 <use images/RNN2.png>
 Package pdftex.def Info: images/RNN2.png  used on input line 469.
@@ -1667,12 +1728,12 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyri' on input line 479.
 
-<images/RNN3.png, id=365, 1091.07625pt x 592.2125pt>
+<images/RNN3.png, id=535, 1091.07625pt x 592.2125pt>
 File: images/RNN3.png Graphic file (type png)
 <use images/RNN3.png>
 Package pdftex.def Info: images/RNN3.png  used on input line 485.
 (pdftex.def)             Requested size: 469.47049pt x 254.8181pt.
-<images/RNN4.png, id=375, 1116.17pt x 633.36626pt>
+<images/RNN4.png, id=545, 1116.17pt x 633.36626pt>
 File: images/RNN4.png Graphic file (type png)
 <use images/RNN4.png>
 Package pdftex.def Info: images/RNN4.png  used on input line 493.
@@ -1685,7 +1746,7 @@ LaTeX Warning: Command \CYRS invalid in math mode on input line 498.
 
 Missing character: There is no Ñ in font cmr12!
 [18 <./images/RNN3.png>]
-<images/RNN5.png, id=395, 1039.885pt x 474.77374pt>
+<images/RNN5.png, id=565, 1039.885pt x 474.77374pt>
 File: images/RNN5.png Graphic file (type png)
 <use images/RNN5.png>
 Package pdftex.def Info: images/RNN5.png  used on input line 531.
@@ -1970,16 +2031,38 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyrya' on input line 617.
 
-<images/losstrain.png, id=441, 923.45pt x 599.74063pt>
-File: images/losstrain.png Graphic file (type png)
-<use images/losstrain.png>
-Package pdftex.def Info: images/losstrain.png  used on input line 622.
-(pdftex.def)             Requested size: 230.0431pt x 149.404pt.
-<images/valtrain.png, id=442, 392.46625pt x 259.46938pt>
-File: images/valtrain.png Graphic file (type png)
-<use images/valtrain.png>
-Package pdftex.def Info: images/valtrain.png  used on input line 626.
-(pdftex.def)             Requested size: 230.0431pt x 152.09184pt.
+Package epstopdf Info: Source file: <images/losstrain.eps>
+(epstopdf)                    date: 2021-06-19 13:37:13
+(epstopdf)                    size: 20016 bytes
+(epstopdf)             Output file: <images/losstrain-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 13:40:20
+(epstopdf)                    size: 12551 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/losstrain-eps-conve
+rted-to.pdf images/losstrain.eps>
+(epstopdf)             \includegraphics on input line 622.
+Package epstopdf Info: Output file is already uptodate.
+<images/losstrain-eps-converted-to.pdf, id=611, 433.62pt x 289.08pt>
+File: images/losstrain-eps-converted-to.pdf Graphic file (type pdf)
+<use images/losstrain-eps-converted-to.pdf>
+Package pdftex.def Info: images/losstrain-eps-converted-to.pdf  used on input l
+ine 622.
+(pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
+Package epstopdf Info: Source file: <images/valtrain.eps>
+(epstopdf)                    date: 2021-06-19 13:37:15
+(epstopdf)                    size: 22875 bytes
+(epstopdf)             Output file: <images/valtrain-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-19 13:40:20
+(epstopdf)                    size: 14458 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/valtrain-eps-conver
+ted-to.pdf images/valtrain.eps>
+(epstopdf)             \includegraphics on input line 626.
+Package epstopdf Info: Output file is already uptodate.
+<images/valtrain-eps-converted-to.pdf, id=612, 433.62pt x 289.08pt>
+File: images/valtrain-eps-converted-to.pdf Graphic file (type pdf)
+<use images/valtrain-eps-converted-to.pdf>
+Package pdftex.def Info: images/valtrain-eps-converted-to.pdf  used on input li
+ne 626.
+(pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 [22]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
@@ -2029,21 +2112,44 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyre' on input line 647.
 
-<images/losstest.png, id=473, 868.24374pt x 562.60187pt>
-File: images/losstest.png Graphic file (type png)
-<use images/losstest.png>
-Package pdftex.def Info: images/losstest.png  used on input line 651.
-(pdftex.def)             Requested size: 230.0431pt x 149.06302pt.
-<images/valtest.png, id=474, 907.89188pt x 558.085pt>
-File: images/valtest.png Graphic file (type png)
-<use images/valtest.png>
-Package pdftex.def Info: images/valtest.png  used on input line 655.
-(pdftex.def)             Requested size: 230.0431pt x 141.40286pt.
+Package epstopdf Info: Source file: <images/losstest.eps>
+(epstopdf)                    date: 2021-06-18 16:07:35
+(epstopdf)                    size: 20431 bytes
+(epstopdf)             Output file: <images/losstest-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-18 16:09:28
+(epstopdf)                    size: 12337 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/losstest-eps-conver
+ted-to.pdf images/losstest.eps>
+(epstopdf)             \includegraphics on input line 651.
+Package epstopdf Info: Output file is already uptodate.
+<images/losstest-eps-converted-to.pdf, id=644, 433.62pt x 289.08pt>
+File: images/losstest-eps-converted-to.pdf Graphic file (type pdf)
+<use images/losstest-eps-converted-to.pdf>
+Package pdftex.def Info: images/losstest-eps-converted-to.pdf  used on input li
+ne 651.
+(pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
+Package epstopdf Info: Source file: <images/valtest.eps>
+(epstopdf)                    date: 2021-06-18 16:07:29
+(epstopdf)                    size: 20088 bytes
+(epstopdf)             Output file: <images/valtest-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-18 16:09:28
+(epstopdf)                    size: 12552 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/valtest-eps-convert
+ed-to.pdf images/valtest.eps>
+(epstopdf)             \includegraphics on input line 655.
+Package epstopdf Info: Output file is already uptodate.
+<images/valtest-eps-converted-to.pdf, id=645, 433.62pt x 289.08pt>
+File: images/valtest-eps-converted-to.pdf Graphic file (type pdf)
+<use images/valtest-eps-converted-to.pdf>
+Package pdftex.def Info: images/valtest-eps-converted-to.pdf  used on input lin
+e 655.
+(pdftex.def)             Requested size: 230.0431pt x 153.36163pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23 <./images/losstrain.png> <./images/valtrain.png>] [24 <./images/losstest.pn
-g> <./images/valtest.png>]
+[23 <./images/losstrain-eps-converted-to.pdf> <./images/valtrain-eps-converted-
+to.pdf>] [24 <./images/losstest-eps-converted-to.pdf> <./images/valtest-eps-con
+verted-to.pdf>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\CYRS' on input line 666.
@@ -2120,55 +2226,55 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyrz' on input line 666.
 
-<images/battle1.png, id=497, 552.0625pt x 367.3725pt>
+<images/battle1.png, id=795, 552.0625pt x 367.3725pt>
 File: images/battle1.png Graphic file (type png)
 <use images/battle1.png>
 Package pdftex.def Info: images/battle1.png  used on input line 671.
 (pdftex.def)             Requested size: 281.68515pt x 187.45839pt.
-<images/battle2.png, id=498, 551.05875pt x 375.4025pt>
+<images/battle2.png, id=796, 551.05875pt x 375.4025pt>
 File: images/battle2.png Graphic file (type png)
 <use images/battle2.png>
 Package pdftex.def Info: images/battle2.png  used on input line 680.
 (pdftex.def)             Requested size: 281.68515pt x 191.89954pt.
 [25 <./images/battle1.png> <./images/battle2.png>]
-<images/kalmanx.png, id=506, 533.995pt x 354.32375pt>
+<images/kalmanx.png, id=804, 533.995pt x 354.32375pt>
 File: images/kalmanx.png Graphic file (type png)
 <use images/kalmanx.png>
 Package pdftex.def Info: images/kalmanx.png  used on input line 694.
 (pdftex.def)             Requested size: 230.0431pt x 152.64278pt.
-<images/nnx.png, id=507, 538.01pt x 371.3875pt>
+<images/nnx.png, id=805, 538.01pt x 371.3875pt>
 File: images/nnx.png Graphic file (type png)
 <use images/nnx.png>
 Package pdftex.def Info: images/nnx.png  used on input line 698.
 (pdftex.def)             Requested size: 230.0431pt x 158.79813pt.
-<images/kalmany.png, id=508, 560.0925pt x 388.45125pt>
+<images/kalmany.png, id=806, 560.0925pt x 388.45125pt>
 File: images/kalmany.png Graphic file (type png)
 <use images/kalmany.png>
 Package pdftex.def Info: images/kalmany.png  used on input line 706.
 (pdftex.def)             Requested size: 230.0431pt x 159.54462pt.
-<images/nny.png, id=509, 553.06625pt x 379.4175pt>
+<images/nny.png, id=807, 553.06625pt x 379.4175pt>
 File: images/nny.png Graphic file (type png)
 <use images/nny.png>
 Package pdftex.def Info: images/nny.png  used on input line 710.
 (pdftex.def)             Requested size: 230.0431pt x 157.81427pt.
  [26 <./images/kalmanx.png> <./images/nnx.png> <./images/kalmany.png> <./images
 /nny.png>]
-<images/kalmanz.png, id=516, 561.09625pt x 386.44376pt>
+<images/kalmanz.png, id=814, 561.09625pt x 386.44376pt>
 File: images/kalmanz.png Graphic file (type png)
 <use images/kalmanz.png>
 Package pdftex.def Info: images/kalmanz.png  used on input line 720.
 (pdftex.def)             Requested size: 230.0431pt x 158.43706pt.
-<images/nnz.png, id=517, 562.1pt x 386.44376pt>
+<images/nnz.png, id=815, 562.1pt x 386.44376pt>
 File: images/nnz.png Graphic file (type png)
 <use images/nnz.png>
 Package pdftex.def Info: images/nnz.png  used on input line 724.
 (pdftex.def)             Requested size: 230.0431pt x 158.15402pt.
-<images/xy.png, id=518, 566.115pt x 376.40625pt>
+<images/xy.png, id=816, 566.115pt x 376.40625pt>
 File: images/xy.png Graphic file (type png)
 <use images/xy.png>
 Package pdftex.def Info: images/xy.png  used on input line 736.
 (pdftex.def)             Requested size: 328.6279pt x 218.5053pt.
-<images/xz.png, id=519, 556.0775pt x 377.41pt>
+<images/xz.png, id=817, 556.0775pt x 377.41pt>
 File: images/xz.png Graphic file (type png)
 <use images/xz.png>
 Package pdftex.def Info: images/xz.png  used on input line 743.
@@ -2178,7 +2284,7 @@ Package pdftex.def Info: images/xz.png  used on input line 743.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [27 <./images/kalmanz.png> <./images/nnz.png> <./images/xy.png>]
-<images/yz.png, id=526, 563.10374pt x 380.42125pt>
+<images/yz.png, id=824, 563.10374pt x 380.42125pt>
 File: images/yz.png Graphic file (type png)
 <use images/yz.png>
 Package pdftex.def Info: images/yz.png  used on input line 750.
@@ -2312,13 +2418,13 @@ Package epstopdf Info: Source file: <images/hgv0.eps>
 (epstopdf)                    date: 2021-06-15 20:26:26
 (epstopdf)                    size: 15587 bytes
 (epstopdf)             Output file: <images/hgv0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:27:59
+(epstopdf)                    date: 2021-06-17 15:32:13
 (epstopdf)                    size: 9382 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/hgv0-eps-converted-
 to.pdf images/hgv0.eps>
 (epstopdf)             \includegraphics on input line 762.
 Package epstopdf Info: Output file is already uptodate.
-<images/hgv0-eps-converted-to.pdf, id=534, 433.62pt x 289.08pt>
+<images/hgv0-eps-converted-to.pdf, id=832, 433.62pt x 289.08pt>
 File: images/hgv0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/hgv0-eps-converted-to.pdf>
 Package pdftex.def Info: images/hgv0-eps-converted-to.pdf  used on input line 7
@@ -2328,16 +2434,13 @@ Package epstopdf Info: Source file: <images/hgv1.eps>
 (epstopdf)                    date: 2021-06-15 22:29:22
 (epstopdf)                    size: 47878 bytes
 (epstopdf)             Output file: <images/hgv1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-17 15:32:13
+(epstopdf)                    size: 19198 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/hgv1-eps-converted-
 to.pdf images/hgv1.eps>
 (epstopdf)             \includegraphics on input line 777.
-runsystem(repstopdf --outfile=images/hgv1-eps-converted-to.pdf images/hgv1.eps)
-...executed safely (allowed).
-
-Package epstopdf Info: Result file: <images/hgv1-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:30:19
-(epstopdf)                    size: 19198 bytes.
-<images/hgv1-eps-converted-to.pdf, id=535, 433.62pt x 289.08pt>
+Package epstopdf Info: Output file is already uptodate.
+<images/hgv1-eps-converted-to.pdf, id=833, 433.62pt x 289.08pt>
 File: images/hgv1-eps-converted-to.pdf Graphic file (type pdf)
 <use images/hgv1-eps-converted-to.pdf>
 Package pdftex.def Info: images/hgv1-eps-converted-to.pdf  used on input line 7
@@ -2347,16 +2450,13 @@ Package epstopdf Info: Source file: <images/hgv2.eps>
 (epstopdf)                    date: 2021-06-15 22:29:24
 (epstopdf)                    size: 29798 bytes
 (epstopdf)             Output file: <images/hgv2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-17 15:32:14
+(epstopdf)                    size: 12955 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/hgv2-eps-converted-
 to.pdf images/hgv2.eps>
 (epstopdf)             \includegraphics on input line 781.
-runsystem(repstopdf --outfile=images/hgv2-eps-converted-to.pdf images/hgv2.eps)
-...executed safely (allowed).
-
-Package epstopdf Info: Result file: <images/hgv2-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:30:20
-(epstopdf)                    size: 12955 bytes.
-<images/hgv2-eps-converted-to.pdf, id=536, 433.62pt x 289.08pt>
+Package epstopdf Info: Output file is already uptodate.
+<images/hgv2-eps-converted-to.pdf, id=834, 433.62pt x 289.08pt>
 File: images/hgv2-eps-converted-to.pdf Graphic file (type pdf)
 <use images/hgv2-eps-converted-to.pdf>
 Package pdftex.def Info: images/hgv2-eps-converted-to.pdf  used on input line 7
@@ -2438,13 +2538,13 @@ Package epstopdf Info: Source file: <images/losstrain0.eps>
 (epstopdf)                    date: 2021-06-15 20:22:44
 (epstopdf)                    size: 22680 bytes
 (epstopdf)             Output file: <images/losstrain0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:00
+(epstopdf)                    date: 2021-06-17 15:32:14
 (epstopdf)                    size: 13207 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/losstrain0-eps-conv
 erted-to.pdf images/losstrain0.eps>
 (epstopdf)             \includegraphics on input line 793.
 Package epstopdf Info: Output file is already uptodate.
-<images/losstrain0-eps-converted-to.pdf, id=539, 433.62pt x 289.08pt>
+<images/losstrain0-eps-converted-to.pdf, id=837, 433.62pt x 289.08pt>
 File: images/losstrain0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/losstrain0-eps-converted-to.pdf>
 Package pdftex.def Info: images/losstrain0-eps-converted-to.pdf  used on input 
@@ -2454,13 +2554,13 @@ Package epstopdf Info: Source file: <images/valtrain0.eps>
 (epstopdf)                    date: 2021-06-15 20:22:49
 (epstopdf)                    size: 22814 bytes
 (epstopdf)             Output file: <images/valtrain0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:00
+(epstopdf)                    date: 2021-06-17 15:32:15
 (epstopdf)                    size: 14286 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/valtrain0-eps-conve
 rted-to.pdf images/valtrain0.eps>
 (epstopdf)             \includegraphics on input line 797.
 Package epstopdf Info: Output file is already uptodate.
-<images/valtrain0-eps-converted-to.pdf, id=540, 433.62pt x 289.08pt>
+<images/valtrain0-eps-converted-to.pdf, id=838, 433.62pt x 289.08pt>
 File: images/valtrain0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/valtrain0-eps-converted-to.pdf>
 Package pdftex.def Info: images/valtrain0-eps-converted-to.pdf  used on input l
@@ -2521,13 +2621,13 @@ Package epstopdf Info: Source file: <images/losstest0.eps>
 (epstopdf)                    date: 2021-06-15 22:16:36
 (epstopdf)                    size: 19420 bytes
 (epstopdf)             Output file: <images/losstest0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:01
+(epstopdf)                    date: 2021-06-17 15:32:15
 (epstopdf)                    size: 11756 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/losstest0-eps-conve
 rted-to.pdf images/losstest0.eps>
 (epstopdf)             \includegraphics on input line 814.
 Package epstopdf Info: Output file is already uptodate.
-<images/losstest0-eps-converted-to.pdf, id=678, 433.62pt x 289.08pt>
+<images/losstest0-eps-converted-to.pdf, id=977, 433.62pt x 289.08pt>
 File: images/losstest0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/losstest0-eps-converted-to.pdf>
 Package pdftex.def Info: images/losstest0-eps-converted-to.pdf  used on input l
@@ -2537,13 +2637,13 @@ Package epstopdf Info: Source file: <images/valtest0.eps>
 (epstopdf)                    date: 2021-06-15 22:16:32
 (epstopdf)                    size: 21412 bytes
 (epstopdf)             Output file: <images/valtest0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:02
+(epstopdf)                    date: 2021-06-17 15:32:16
 (epstopdf)                    size: 13048 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/valtest0-eps-conver
 ted-to.pdf images/valtest0.eps>
 (epstopdf)             \includegraphics on input line 818.
 Package epstopdf Info: Output file is already uptodate.
-<images/valtest0-eps-converted-to.pdf, id=679, 433.62pt x 289.08pt>
+<images/valtest0-eps-converted-to.pdf, id=978, 433.62pt x 289.08pt>
 File: images/valtest0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/valtest0-eps-converted-to.pdf>
 Package pdftex.def Info: images/valtest0-eps-converted-to.pdf  used on input li
@@ -2628,50 +2728,50 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\cyrz' on input line 828.
 
 Package epstopdf Info: Source file: <images/battle3.eps>
-(epstopdf)                    date: 2021-06-15 22:21:11
-(epstopdf)                    size: 32306 bytes
+(epstopdf)                    date: 2021-06-17 18:37:37
+(epstopdf)                    size: 31680 bytes
 (epstopdf)             Output file: <images/battle3-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:02
-(epstopdf)                    size: 16616 bytes
+(epstopdf)                    date: 2021-06-17 18:39:23
+(epstopdf)                    size: 16560 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/battle3-eps-convert
 ed-to.pdf images/battle3.eps>
 (epstopdf)             \includegraphics on input line 833.
 Package epstopdf Info: Output file is already uptodate.
-<images/battle3-eps-converted-to.pdf, id=748, 433.62pt x 289.08pt>
+<images/battle3-eps-converted-to.pdf, id=1047, 722.7pt x 433.62pt>
 File: images/battle3-eps-converted-to.pdf Graphic file (type pdf)
 <use images/battle3-eps-converted-to.pdf>
 Package pdftex.def Info: images/battle3-eps-converted-to.pdf  used on input lin
 e 833.
-(pdftex.def)             Requested size: 281.68515pt x 187.79831pt.
+(pdftex.def)             Requested size: 281.68515pt x 169.01187pt.
 Package epstopdf Info: Source file: <images/battle4.eps>
-(epstopdf)                    date: 2021-06-15 22:21:09
-(epstopdf)                    size: 30666 bytes
+(epstopdf)                    date: 2021-06-17 18:37:34
+(epstopdf)                    size: 32122 bytes
 (epstopdf)             Output file: <images/battle4-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:03
-(epstopdf)                    size: 16412 bytes
+(epstopdf)                    date: 2021-06-17 18:39:24
+(epstopdf)                    size: 16011 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/battle4-eps-convert
 ed-to.pdf images/battle4.eps>
 (epstopdf)             \includegraphics on input line 842.
 Package epstopdf Info: Output file is already uptodate.
-<images/battle4-eps-converted-to.pdf, id=749, 433.62pt x 289.08pt>
+<images/battle4-eps-converted-to.pdf, id=1048, 722.7pt x 433.62pt>
 File: images/battle4-eps-converted-to.pdf Graphic file (type pdf)
 <use images/battle4-eps-converted-to.pdf>
 Package pdftex.def Info: images/battle4-eps-converted-to.pdf  used on input lin
 e 842.
-(pdftex.def)             Requested size: 281.68515pt x 187.79831pt.
+(pdftex.def)             Requested size: 281.68515pt x 169.01187pt.
 [32 <./images/battle3-eps-converted-to.pdf> <./images/battle4-eps-converted-to.
 pdf>]
 Package epstopdf Info: Source file: <images/kalmanx0.eps>
 (epstopdf)                    date: 2021-06-15 22:24:45
 (epstopdf)                    size: 44555 bytes
 (epstopdf)             Output file: <images/kalmanx0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:03
+(epstopdf)                    date: 2021-06-17 15:32:17
 (epstopdf)                    size: 20968 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/kalmanx0-eps-conver
 ted-to.pdf images/kalmanx0.eps>
 (epstopdf)             \includegraphics on input line 856.
 Package epstopdf Info: Output file is already uptodate.
-<images/kalmanx0-eps-converted-to.pdf, id=829, 433.62pt x 289.08pt>
+<images/kalmanx0-eps-converted-to.pdf, id=1126, 433.62pt x 289.08pt>
 File: images/kalmanx0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/kalmanx0-eps-converted-to.pdf>
 Package pdftex.def Info: images/kalmanx0-eps-converted-to.pdf  used on input li
@@ -2681,13 +2781,13 @@ Package epstopdf Info: Source file: <images/nnx0.eps>
 (epstopdf)                    date: 2021-06-15 22:24:56
 (epstopdf)                    size: 43897 bytes
 (epstopdf)             Output file: <images/nnx0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:03
+(epstopdf)                    date: 2021-06-17 15:32:17
 (epstopdf)                    size: 20572 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/nnx0-eps-converted-
 to.pdf images/nnx0.eps>
 (epstopdf)             \includegraphics on input line 860.
 Package epstopdf Info: Output file is already uptodate.
-<images/nnx0-eps-converted-to.pdf, id=830, 433.62pt x 289.08pt>
+<images/nnx0-eps-converted-to.pdf, id=1127, 433.62pt x 289.08pt>
 File: images/nnx0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/nnx0-eps-converted-to.pdf>
 Package pdftex.def Info: images/nnx0-eps-converted-to.pdf  used on input line 8
@@ -2697,13 +2797,13 @@ Package epstopdf Info: Source file: <images/kalmany0.eps>
 (epstopdf)                    date: 2021-06-15 22:24:49
 (epstopdf)                    size: 44047 bytes
 (epstopdf)             Output file: <images/kalmany0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:04
+(epstopdf)                    date: 2021-06-17 15:32:18
 (epstopdf)                    size: 20913 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/kalmany0-eps-conver
 ted-to.pdf images/kalmany0.eps>
 (epstopdf)             \includegraphics on input line 868.
 Package epstopdf Info: Output file is already uptodate.
-<images/kalmany0-eps-converted-to.pdf, id=831, 433.62pt x 289.08pt>
+<images/kalmany0-eps-converted-to.pdf, id=1128, 433.62pt x 289.08pt>
 File: images/kalmany0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/kalmany0-eps-converted-to.pdf>
 Package pdftex.def Info: images/kalmany0-eps-converted-to.pdf  used on input li
@@ -2713,13 +2813,13 @@ Package epstopdf Info: Source file: <images/nny0.eps>
 (epstopdf)                    date: 2021-06-15 22:24:59
 (epstopdf)                    size: 43290 bytes
 (epstopdf)             Output file: <images/nny0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:04
+(epstopdf)                    date: 2021-06-17 15:32:18
 (epstopdf)                    size: 20591 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/nny0-eps-converted-
 to.pdf images/nny0.eps>
 (epstopdf)             \includegraphics on input line 872.
 Package epstopdf Info: Output file is already uptodate.
-<images/nny0-eps-converted-to.pdf, id=832, 433.62pt x 289.08pt>
+<images/nny0-eps-converted-to.pdf, id=1129, 433.62pt x 289.08pt>
 File: images/nny0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/nny0-eps-converted-to.pdf>
 Package pdftex.def Info: images/nny0-eps-converted-to.pdf  used on input line 8
@@ -2732,13 +2832,13 @@ Package epstopdf Info: Source file: <images/kalmanz0.eps>
 (epstopdf)                    date: 2021-06-15 22:24:51
 (epstopdf)                    size: 41435 bytes
 (epstopdf)             Output file: <images/kalmanz0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:05
+(epstopdf)                    date: 2021-06-17 15:32:19
 (epstopdf)                    size: 19784 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/kalmanz0-eps-conver
 ted-to.pdf images/kalmanz0.eps>
 (epstopdf)             \includegraphics on input line 882.
 Package epstopdf Info: Output file is already uptodate.
-<images/kalmanz0-eps-converted-to.pdf, id=980, 433.62pt x 289.08pt>
+<images/kalmanz0-eps-converted-to.pdf, id=1277, 433.62pt x 289.08pt>
 File: images/kalmanz0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/kalmanz0-eps-converted-to.pdf>
 Package pdftex.def Info: images/kalmanz0-eps-converted-to.pdf  used on input li
@@ -2748,13 +2848,13 @@ Package epstopdf Info: Source file: <images/nnz0.eps>
 (epstopdf)                    date: 2021-06-15 22:25:01
 (epstopdf)                    size: 40562 bytes
 (epstopdf)             Output file: <images/nnz0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:06
+(epstopdf)                    date: 2021-06-17 15:32:19
 (epstopdf)                    size: 19310 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/nnz0-eps-converted-
 to.pdf images/nnz0.eps>
 (epstopdf)             \includegraphics on input line 886.
 Package epstopdf Info: Output file is already uptodate.
-<images/nnz0-eps-converted-to.pdf, id=981, 433.62pt x 289.08pt>
+<images/nnz0-eps-converted-to.pdf, id=1278, 433.62pt x 289.08pt>
 File: images/nnz0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/nnz0-eps-converted-to.pdf>
 Package pdftex.def Info: images/nnz0-eps-converted-to.pdf  used on input line 8
@@ -2764,13 +2864,13 @@ Package epstopdf Info: Source file: <images/xy0.eps>
 (epstopdf)                    date: 2021-06-15 22:25:48
 (epstopdf)                    size: 52417 bytes
 (epstopdf)             Output file: <images/xy0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:06
+(epstopdf)                    date: 2021-06-17 15:32:20
 (epstopdf)                    size: 86202 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/xy0-eps-converted-t
 o.pdf images/xy0.eps>
 (epstopdf)             \includegraphics on input line 898.
 Package epstopdf Info: Output file is already uptodate.
-<images/xy0-eps-converted-to.pdf, id=982, 433.62pt x 289.08pt>
+<images/xy0-eps-converted-to.pdf, id=1279, 433.62pt x 289.08pt>
 File: images/xy0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/xy0-eps-converted-to.pdf>
 Package pdftex.def Info: images/xy0-eps-converted-to.pdf  used on input line 89
@@ -2780,13 +2880,13 @@ Package epstopdf Info: Source file: <images/xz0.eps>
 (epstopdf)                    date: 2021-06-15 22:25:52
 (epstopdf)                    size: 53816 bytes
 (epstopdf)             Output file: <images/xz0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:07
+(epstopdf)                    date: 2021-06-17 15:32:20
 (epstopdf)                    size: 87479 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/xz0-eps-converted-t
 o.pdf images/xz0.eps>
 (epstopdf)             \includegraphics on input line 905.
 Package epstopdf Info: Output file is already uptodate.
-<images/xz0-eps-converted-to.pdf, id=983, 433.62pt x 289.08pt>
+<images/xz0-eps-converted-to.pdf, id=1280, 433.62pt x 289.08pt>
 File: images/xz0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/xz0-eps-converted-to.pdf>
 Package pdftex.def Info: images/xz0-eps-converted-to.pdf  used on input line 90
@@ -2802,13 +2902,13 @@ Package epstopdf Info: Source file: <images/yz0.eps>
 (epstopdf)                    date: 2021-06-15 22:25:55
 (epstopdf)                    size: 52430 bytes
 (epstopdf)             Output file: <images/yz0-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-06-15 22:28:07
+(epstopdf)                    date: 2021-06-17 15:32:21
 (epstopdf)                    size: 86620 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/yz0-eps-converted-t
 o.pdf images/yz0.eps>
 (epstopdf)             \includegraphics on input line 912.
 Package epstopdf Info: Output file is already uptodate.
-<images/yz0-eps-converted-to.pdf, id=1090, 433.62pt x 289.08pt>
+<images/yz0-eps-converted-to.pdf, id=1387, 433.62pt x 289.08pt>
 File: images/yz0-eps-converted-to.pdf Graphic file (type pdf)
 <use images/yz0-eps-converted-to.pdf>
 Package pdftex.def Info: images/yz0-eps-converted-to.pdf  used on input line 91
@@ -2982,7 +3082,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 968.
  ) 
 Here is how much of TeX's memory you used:
  12910 strings out of 480608
- 193054 string characters out of 5903629
+ 193882 string characters out of 5903629
  703980 words of memory out of 5000000
  28304 multiletter control sequences out of 15000+600000
  560611 words of font info for 100 fonts, out of 8000000 for 9000
@@ -3018,10 +3118,10 @@ ts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2020/texmf-dist/fonts
 ype1/public/cm-super/sfti0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/typ
 e1/public/cm-super/sfti1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1
 /public/cm-super/sftt1095.pfb>
-Output written on coursework.pdf (37 pages, 7985294 bytes).
+Output written on coursework.pdf (37 pages, 6629352 bytes).
 PDF statistics:
- 1322 PDF objects out of 1440 (max. 8388607)
- 662 compressed objects within 7 object streams
+ 1619 PDF objects out of 1728 (max. 8388607)
+ 699 compressed objects within 7 object streams
  200 named destinations out of 1000 (max. 500000)
  424 words of extra memory for PDF output out of 10000 (max. 10000000)
 

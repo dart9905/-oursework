@@ -269,7 +269,7 @@ $size\_coordinates$ - размерность пространства.
 Смоделируем простой сигнал,  например, полет тела в плоскости $XY$,  с белым шумом и проверим работу нашего фильтра:
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.9\textwidth]{images/kalmanfilter1.png}
+\includegraphics[width=0.9\textwidth]{images/kalmanfilter1.eps}
 \end{center}
 \caption{Полёт тела в плоскости $XY$} \label{kalman1}
 \end{figure}
@@ -278,14 +278,14 @@ $size\_coordinates$ - размерность пространства.
 
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.9\textwidth]{images/kalmanfilter2.png}
+\includegraphics[width=0.9\textwidth]{images/kalmanfilter2.eps}
 \end{center}
 \caption{Отклонение по $Y$} \label{kalman2}
 \end{figure}
 
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.9\textwidth]{images/kalmanfilter3.png}
+\includegraphics[width=0.9\textwidth]{images/kalmanfilter3.eps}
 \end{center}
 \caption{Отклонение по $X$} \label{kalman3}
 \end{figure}
@@ -294,14 +294,14 @@ $size\_coordinates$ - размерность пространства.
 
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.9\textwidth]{images/kalmanfilter4.png}
+\includegraphics[width=0.9\textwidth]{images/kalmanfilter4.eps}
 \end{center}
 \caption{Среднеквадратичная ошибка по $X$} \label{kalman4}
 \end{figure}
 
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=0.9\textwidth]{images/kalmanfilter5.png}
+\includegraphics[width=0.9\textwidth]{images/kalmanfilter5.eps}
 \end{center}
 \caption{Среднеквадратичная ошибка по $Y$} \label{kalman5}
 \end{figure}
@@ -619,11 +619,11 @@ def load_checkpoint()
 Приведём процесс  обечения и  валидации\footnote{Валидация - это проверка данных на соответствие заданным условиям и ограничениям.} в виде графиков  зависимостей  от эпох\footnote{Эпоха - время, за которое обрабатываются все данные.}:
 \begin{figure}[h]
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/losstrain.png} \\ а)}
+\center{\includegraphics[width=1\linewidth]{images/losstrain.eps} \\ а)}
 \end{minipage}
 \hfill
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/valtrain.png} \\ б)}
+\center{\includegraphics[width=1\linewidth]{images/valtrain.eps} \\ б)}
 \end{minipage}
 \caption{Процесс обучения и валидации. а) график зависимости средней по данным MSE ошибки от эпохи; б) график зависимости средней по данным точности от эпохи.}
 \label{train}
@@ -642,23 +642,23 @@ def accuracy(x_pred, x_real, Discrepancy):
         (np.absolute(delta/x_real) <= Discrepancy))/ x_real.size
 \end{lstlisting}
 
-\textbf{Вывод:} Из падения графиков на MSE и росте на Accuracy видно,  что сеть обучается. Точность на валидации чуть выше $70\%$, это связано с регуляризацией\footnote{В данном случае говорится об  регуляризацие Dropout.} модели.
+\textbf{Вывод:} Из падения графиков на MSE и росте на Accuracy видно,  что сеть обучается. Точность на валидации чуть выше $71,9\%$, это связано с регуляризацией\footnote{В данном случае говорится об  регуляризацие Dropout.} модели.
 
 \subsubsection{Тестирование}
 Приведём процесс тестирования в виде графиков:
  \begin{figure}[h]
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/losstest.png} \\ а)}
+\center{\includegraphics[width=1\linewidth]{images/losstest.eps} \\ а)}
 \end{minipage}
 \hfill
 \begin{minipage}[h]{0.49\linewidth}
-\center{\includegraphics[width=1\linewidth]{images/valtest.png} \\ б)}
+\center{\includegraphics[width=1\linewidth]{images/valtest.eps} \\ б)}
 \end{minipage}
 \caption{Процесс тестирования. а) график зависимости средней по данным MSE ошибки от эпохи; б) график зависимости средней по данным точности от эпохи.}
 \label{test}
 \end{figure}
 
-Ошибка в среднем $1,56$ м$^2$ по траекториям.  А точности $5\%$ среднем мы достигаем в $79\%$  фильтрации.
+Ошибка в среднем $0,68$ по траекториям.  А точности $5\%$ среднем мы достигаем в $60,7\%$  фильтрации.
 
 \textbf{Вывод:} Сеть обучилась на наших данных, но возможен рост характеристик точности при  увеличении  обучающей вывборки и колличества весовых параметров.
  
