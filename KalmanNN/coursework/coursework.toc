@@ -10,7 +10,7 @@
 \contentsline {subsection}{\numberline {3.3}Функции активации}{15}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Метод обратного распространения ошибки}{16}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Рекуррентная нейронная сеть (RNN)}{17}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}Простейшая схема RNN}{17}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.1}Схема RNN}{17}{subsubsection.3.5.1}%
 \contentsline {subsubsection}{\numberline {3.5.2}Рекуррентная нейронная сеть с кратковременной, долговременной памятью и уравнением экстраполяции Калмана}{19}{subsubsection.3.5.2}%
 \contentsline {section}{\numberline {4}Реализация}{22}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Фильтрация траекторий баллистических измерений}{23}{subsection.4.1}%
