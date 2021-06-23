@@ -19,10 +19,10 @@
 \contentsline {subsection}{\numberline {6.1}Фильтрация траекторий баллистических измерений рекуррентной нейронной сетью.}{24}{subsection.6.1}%
 \contentsline {subsubsection}{\numberline {6.1.1}Обучение рекуррентной нейронной сети.}{24}{subsubsection.6.1.1}%
 \contentsline {subsubsection}{\numberline {6.1.2}Проверка модели рекуррентной нейронной сети на контрольных данных.}{26}{subsubsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.3}Сравнение результатов фильтраций нейронной сетью и фильтром Калмана.}{27}{subsubsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.2}Фильтрация траекторий гиперзвуковых измерений рекуррентной нейронной сетью.}{31}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Сравнение результатов фильтраций нейронной сетью и фильтром Калмана.}{26}{subsubsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.2}Фильтрация траекторий гиперзвуковых измерений рекуррентной нейронной сетью.}{30}{subsection.6.2}%
 \contentsline {subsubsection}{\numberline {6.2.1}Обучение рекуррентной нейронной сети.}{31}{subsubsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2}Проверка модели рекуррентной нейронной сети на контрольных данных.}{33}{subsubsection.6.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.3}Сравнение результатов фильтраций нейронной сетью и фильтром Калмана.}{34}{subsubsection.6.2.3}%
-\contentsline {section}{\numberline {7}Заключение.}{38}{section.7}%
-\contentsline {section}{\numberline {8}Список литературы}{39}{section.8}%
+\contentsline {subsubsection}{\numberline {6.2.2}Проверка модели рекуррентной нейронной сети на контрольных данных.}{32}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Сравнение результатов фильтраций нейронной сетью и фильтром Калмана.}{32}{subsubsection.6.2.3}%
+\contentsline {section}{\numberline {7}Заключение.}{37}{section.7}%
+\contentsline {section}{\numberline {8}Список литературы}{38}{section.8}%
